@@ -1,0 +1,7566 @@
+{
+  "blue": [
+    {
+      "name": "#0a40ff",
+      "count": 61,
+      "variations": [
+        "#0a40ff",
+        "rgba(10, 64, 255, .5)",
+        "rgba(10, 64, 255, .07)",
+        "rgba(10, 64, 255, 0.1)",
+        "rgba(10, 64, 255, 0.3)",
+        "rgba(10, 64, 255, 0.11)",
+        "rgba(10, 64, 255, 1)",
+        "rgba(10, 64, 255, 0.20)",
+        "rgba(10, 64, 255, 0.07)",
+        "rgba(10, 64, 255, 0.5)",
+        "rgba(10, 64, 255, 0.10)",
+        "rgba(10, 64, 255, 0.30)",
+        "rgba(10,64,255, 0.1)",
+        "rgba(10, 64, 255, 0.08)",
+        "rgba(10, 64, 255, 0.8)",
+        "rgba(10, 64, 255, 0.6)",
+        "rgba(10, 64, 255, 0.4)",
+        "rgba(10, 64, 255, 0.05)",
+        "rgba(10, 64, 255, 0.25)"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/main.d.ts",
+        "dist/main.css",
+        "dist/MDXContent-R3amXh7n.js",
+        "dist/main-UxoaCJ3s.js",
+        "src/theme.ts",
+        "src/shared/AppShell/RunLLMIcon.tsx",
+        "src/shared/AppShell/RunLLMLockup.tsx",
+        "src/shared/AppShell/EmptyLimitIcon.tsx",
+        "src/shared/AppShell/Navatar.module.css",
+        "src/shared/AppShell/Logo.tsx",
+        "src/shared/components/ListIcons.module.css",
+        "src/shared/components/IconPlus.tsx",
+        "src/shared/components/RunLLMLogo.tsx",
+        "src/shared/components/DataSourceCard.module.css",
+        "src/shared/components/DataSourceCard.tsx",
+        "src/shared/components/IngestionRunProgressBar.module.css",
+        "src/shared/components/FineTune.tsx",
+        "src/shared/components/ConfigTableView/ConfigTableView.module.css",
+        "src/shared/components/CodeBlock/CodeBlock.module.css",
+        "src/shared/components/RunLLMLogo/RunLLMLogo.tsx",
+        "src/shared/components/icons/IconBox/IconBox.tsx",
+        "src/shared/components/icons/IconDocument/IconDocument.tsx",
+        "src/shared/components/icons/IconChat/IconChat.tsx",
+        "src/shared/components/icons/IconHelpCircle/IconHelpCircle.tsx",
+        "src/shared/components/icons/IconDash/IconDash.tsx",
+        "src/shared/components/RunLLMCard/RunLLMCard.module.css",
+        "src/docs/color.stories.tsx",
+        "src/pages/404PageIcon.tsx",
+        "src/pages/assistant/data_source/DataSourceSelector.tsx",
+        "src/pages/assistant/data_source/IconWebCrawler/IconWebCrawler.tsx",
+        "src/pages/assistant/[id]/EmptyStateOverview.tsx",
+        "src/pages/assistant/[id]/EmptyStateLoader.tsx",
+        "src/pages/assistant/[id]/EmailSettingsPopover.tsx",
+        "src/pages/assistant/[id]/insights/AssistantInsightsPage.module.css",
+        "src/pages/assistant/[id]/insights/EmptyInsightsGraphic.tsx",
+        "src/pages/assistant/[id]/chat/MDXProvider.tsx",
+        "src/pages/assistant/[id]/chat/IconLink.tsx",
+        "src/pages/assistant/[id]/chat/ModelChatPage.tsx",
+        "src/pages/assistant/[id]/Quality/Quality.module.css",
+        "src/pages/assistant/[id]/config/AssistantConfigPage.tsx",
+        "src/pages/assistant/[id]/ChatHistory/ChatHistorySection.module.css",
+        "src/pages/assistant/[id]/ChatHistory/ChatHistoryFilter.tsx",
+        "src/pages/assistant/[id]/Usage/UsageSection.tsx",
+        "src/pages/assistant/[id]/Usage/UsageSection.module.css",
+        "src/pages/assistant/[id]/Usage/components/NewUsageCard.tsx",
+        "src/pages/assistant/[id]/Usage/components/DataSourceList.module.css",
+        "src/pages/assistant/[id]/Usage/Icons/IconActivity.tsx",
+        "src/pages/assistant/[id]/Usage/Icons/IconDataSources.tsx",
+        "src/pages/assistant/[id]/Usage/Icons/IconFinetune.tsx",
+        "src/pages/assistant/[id]/Usage/Icons/IconDollarSign.tsx",
+        "src/pages/assistant/[id]/Usage/Icons/IconChatHistory.tsx",
+        "src/pages/autodocs/assistant/[id]/EmptyAutodocsIcon.tsx",
+        "src/pages/chat/components/ChatTab/IconChatBelow.tsx",
+        "src/pages/chat/components/Avatar/IconRunLLM.tsx",
+        "src/pages/newAssistant/NewAssistantBanner.module.css",
+        "src/pages/newAssistant/NewAssistantPageStep.tsx",
+        "src/pages/members/MembersTableFilter.tsx",
+        "src/pages/members/ManageMembersHero.tsx",
+        "src/pages/members/MembersTableFilter.module.css",
+        "src/pages/issues/EmptyIssuesIcon.tsx",
+        "src/pages/issues/issues/IssueList.module.css"
+      ]
+    },
+    {
+      "name": "#213547",
+      "count": 1,
+      "variations": [
+        "#213547"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/main.css"
+      ]
+    },
+    {
+      "name": "#747bff",
+      "count": 1,
+      "variations": [
+        "#747bff"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/main.css"
+      ]
+    },
+    {
+      "name": "#f8f9fa",
+      "count": 2,
+      "variations": [
+        "#f8f9fa"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#f1f3f5",
+      "count": 2,
+      "variations": [
+        "#f1f3f5"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#e9ecef",
+      "count": 3,
+      "variations": [
+        "#e9ecef"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js",
+        "src/pages/issues/issues/IssueDetails.tsx"
+      ]
+    },
+    {
+      "name": "#dee2e6",
+      "count": 2,
+      "variations": [
+        "#dee2e6"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#ced4da",
+      "count": 2,
+      "variations": [
+        "#ced4da",
+        "rgba(206, 212, 218, .05)"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#adb5bd",
+      "count": 2,
+      "variations": [
+        "#adb5bd"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#343a40",
+      "count": 2,
+      "variations": [
+        "#343a40"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#212529",
+      "count": 2,
+      "variations": [
+        "#212529"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#f3f0ff",
+      "count": 2,
+      "variations": [
+        "#f3f0ff"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#845ef7",
+      "count": 2,
+      "variations": [
+        "#845ef7"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#edf2ff",
+      "count": 2,
+      "variations": [
+        "#edf2ff"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#dbe4ff",
+      "count": 2,
+      "variations": [
+        "#dbe4ff"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#bac8ff",
+      "count": 2,
+      "variations": [
+        "#bac8ff"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#91a7ff",
+      "count": 2,
+      "variations": [
+        "#91a7ff"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#748ffc",
+      "count": 2,
+      "variations": [
+        "#748ffc",
+        "rgba(116, 143, 252, .05)"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#5c7cfa",
+      "count": 2,
+      "variations": [
+        "#5c7cfa"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#4c6ef5",
+      "count": 2,
+      "variations": [
+        "#4c6ef5",
+        "rgba(76, 110, 245, .15)",
+        "rgba(76, 110, 245, .2)",
+        "rgba(76, 110, 245, .1)",
+        "rgba(76, 110, 245, .12)",
+        "rgba(76, 110, 245, .05)"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#4263eb",
+      "count": 2,
+      "variations": [
+        "#4263eb"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#3b5bdb",
+      "count": 2,
+      "variations": [
+        "#3b5bdb"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#364fc7",
+      "count": 2,
+      "variations": [
+        "#364fc7"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#e7f5ff",
+      "count": 2,
+      "variations": [
+        "#e7f5ff"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#d0ebff",
+      "count": 2,
+      "variations": [
+        "#d0ebff"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#a5d8ff",
+      "count": 2,
+      "variations": [
+        "#a5d8ff"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#74c0fc",
+      "count": 2,
+      "variations": [
+        "#74c0fc"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#4dabf7",
+      "count": 2,
+      "variations": [
+        "#4dabf7",
+        "rgba(77, 171, 247, .05)"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#339af0",
+      "count": 2,
+      "variations": [
+        "#339af0"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#228be6",
+      "count": 2,
+      "variations": [
+        "#228be6",
+        "rgba(34, 139, 230, .15)",
+        "rgba(34, 139, 230, .2)",
+        "rgba(34, 139, 230, .1)",
+        "rgba(34, 139, 230, .12)",
+        "rgba(34, 139, 230, .05)"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#1c7ed6",
+      "count": 2,
+      "variations": [
+        "#1c7ed6"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#1971c2",
+      "count": 2,
+      "variations": [
+        "#1971c2"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#1864ab",
+      "count": 2,
+      "variations": [
+        "#1864ab"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#0000ff",
+      "count": 23,
+      "variations": [
+        "blue",
+        "rgb(0, 0, 255)"
+      ],
+      "unique": false,
+      "color_format": "named",
+      "category": "blue",
+      "locations": [
+        "dist/main.css",
+        "dist/MDXContent-R3amXh7n.js",
+        "dist/main-UxoaCJ3s.js",
+        "src/shared/components/CardErrorBoundary.tsx",
+        "src/shared/components/ThumbUpButton/ThumbUpButton.tsx",
+        "src/shared/components/ThumbDownButton/ThumbDownButton.tsx",
+        "src/shared/components/RunLLMButton/RunLLMButton.types.ts",
+        "src/shared/components/RunLLMButton/RunLLMButton.stories.tsx",
+        "src/shared/components/icons/IconDocument/IconDocument.tsx",
+        "src/shared/components/RunLLMCard/RunLLMCard.tsx",
+        "src/shared/components/RunLLMCard/RunLLMCard.stories.tsx",
+        "src/shared/components/RunLLMCard/RunLLMCard.module.css",
+        "src/pages/OrgInviteCallback.tsx",
+        "src/pages/assistant/[id]/insights/AssistantInsightsPage.module.css",
+        "src/pages/assistant/[id]/chat/AssistantMessage/AssistantMessage.stories.tsx",
+        "src/pages/assistant/[id]/Usage/components/MessagesCard.stories.tsx",
+        "src/pages/assistant/[id]/Usage/components/ActivityCard.tsx",
+        "src/pages/welcome/ChatStep.tsx",
+        "src/pages/welcome/ChatLabel/ChatLabel.tsx",
+        "src/pages/newAssistant/NewAssistantPageStep.module.css",
+        "src/pages/members/generic_email_domains.tsx",
+        "src/pages/members/MembersTableFilter.tsx",
+        "src/pages/members/ManageMembersHero.tsx"
+      ]
+    },
+    {
+      "name": "#112233",
+      "count": 1,
+      "variations": [
+        "#123"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#112255",
+      "count": 1,
+      "variations": [
+        "#125"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#282a36",
+      "count": 2,
+      "variations": [
+        "#282a36"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#2a2734",
+      "count": 1,
+      "variations": [
+        "#2a2734"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#9a86fd",
+      "count": 1,
+      "variations": [
+        "#9a86fd"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#6c6783",
+      "count": 1,
+      "variations": [
+        "#6c6783"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#eeebff",
+      "count": 1,
+      "variations": [
+        "#eeebff"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#c4b9fe",
+      "count": 1,
+      "variations": [
+        "#c4b9fe"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#728fcb",
+      "count": 1,
+      "variations": [
+        "#728fcb"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#063289",
+      "count": 1,
+      "variations": [
+        "#063289"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#93abdc",
+      "count": 1,
+      "variations": [
+        "#93abdc"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#f6f8fa",
+      "count": 1,
+      "variations": [
+        "#f6f8fa"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#00a4db",
+      "count": 1,
+      "variations": [
+        "#00a4db"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#00009f",
+      "count": 1,
+      "variations": [
+        "#00009f"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#d6deeb",
+      "count": 1,
+      "variations": [
+        "#d6deeb",
+        "rgb(214, 222, 235)"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#011627",
+      "count": 1,
+      "variations": [
+        "#011627"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#403f53",
+      "count": 1,
+      "variations": [
+        "#403f53"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#d8dee9",
+      "count": 1,
+      "variations": [
+        "#d8dee9"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#5a9bcf",
+      "count": 1,
+      "variations": [
+        "#5a9bcf"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#d7deea",
+      "count": 1,
+      "variations": [
+        "#d7deea"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#79b6f2",
+      "count": 1,
+      "variations": [
+        "#79b6f2"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#6699cc",
+      "count": 1,
+      "variations": [
+        "#6699cc"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#282c34",
+      "count": 1,
+      "variations": [
+        "#282c34"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#8292a2",
+      "count": 1,
+      "variations": [
+        "#8292a2"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#bfc7d5",
+      "count": 1,
+      "variations": [
+        "#bfc7d5",
+        "rgb(191, 199, 213)"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#292d3e",
+      "count": 1,
+      "variations": [
+        "#292d3e"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#2d2a55",
+      "count": 1,
+      "variations": [
+        "#2d2a55"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#495495",
+      "count": 1,
+      "variations": [
+        "#495495"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#6196cc",
+      "count": 1,
+      "variations": [
+        "#6196cc"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#9cdcfe",
+      "count": 1,
+      "variations": [
+        "#9cdcfe",
+        "rgb(156, 220, 254)"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#f8fafc",
+      "count": 1,
+      "variations": [
+        "#f8fafc"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#000080",
+      "count": 2,
+      "variations": [
+        "#000080",
+        "rgb(0, 0, 128)",
+        "navy"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js",
+        "src/pages/members/generic_email_domains.tsx"
+      ]
+    },
+    {
+      "name": "#569cd6",
+      "count": 1,
+      "variations": [
+        "#569cd6",
+        "rgb(86, 156, 214)"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#cbd5e1",
+      "count": 1,
+      "variations": [
+        "#cbd5e1"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#0ea5e9",
+      "count": 1,
+      "variations": [
+        "#0ea5e9"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#7dd3fc",
+      "count": 1,
+      "variations": [
+        "#7dd3fc"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#0f172a",
+      "count": 1,
+      "variations": [
+        "#0f172a"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#f1f5f9",
+      "count": 1,
+      "variations": [
+        "#f1f5f9"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#0c4a6e",
+      "count": 1,
+      "variations": [
+        "#0c4a6e"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#64748b",
+      "count": 1,
+      "variations": [
+        "#64748b"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#475569",
+      "count": 1,
+      "variations": [
+        "#475569"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#040d31",
+      "count": 2,
+      "variations": [
+        "#040d31"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js",
+        "src/pages/assistant/[id]/chat/consts.ts"
+      ]
+    },
+    {
+      "name": "#1d2545",
+      "count": 3,
+      "variations": [
+        "#1d2545"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js",
+        "src/shared/components/CodeBlock/CodeBlock.module.css",
+        "src/pages/assistant/[id]/chat/MDXProvider.tsx"
+      ]
+    },
+    {
+      "name": "#6272a4",
+      "count": 1,
+      "variations": [
+        "rgb(98, 114, 164)"
+      ],
+      "unique": true,
+      "color_format": "rgb",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#a2bffc",
+      "count": 1,
+      "variations": [
+        "rgb(162, 191, 252)"
+      ],
+      "unique": true,
+      "color_format": "rgb",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#82aaff",
+      "count": 1,
+      "variations": [
+        "rgb(130, 170, 255)"
+      ],
+      "unique": true,
+      "color_format": "rgb",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#b2ccd6",
+      "count": 1,
+      "variations": [
+        "rgb(178, 204, 214)"
+      ],
+      "unique": true,
+      "color_format": "rgb",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#4876d6",
+      "count": 1,
+      "variations": [
+        "rgb(72, 118, 214)"
+      ],
+      "unique": true,
+      "color_format": "rgb",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#989fb1",
+      "count": 1,
+      "variations": [
+        "rgb(152, 159, 177)"
+      ],
+      "unique": true,
+      "color_format": "rgb",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#697098",
+      "count": 1,
+      "variations": [
+        "rgb(105, 112, 152)"
+      ],
+      "unique": true,
+      "color_format": "rgb",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#89ddff",
+      "count": 1,
+      "variations": [
+        "rgb(137, 221, 255)"
+      ],
+      "unique": true,
+      "color_format": "rgb",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#646695",
+      "count": 1,
+      "variations": [
+        "rgb(100, 102, 149)"
+      ],
+      "unique": true,
+      "color_format": "rgb",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#0070c1",
+      "count": 1,
+      "variations": [
+        "rgb(0, 112, 193)"
+      ],
+      "unique": true,
+      "color_format": "rgb",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#0451a5",
+      "count": 1,
+      "variations": [
+        "rgb(4, 81, 165)"
+      ],
+      "unique": true,
+      "color_format": "rgb",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#272b33",
+      "count": 1,
+      "variations": [
+        "hsl(220, 13%, 18%)"
+      ],
+      "unique": true,
+      "color_format": "hsl",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#aab1bf",
+      "count": 1,
+      "variations": [
+        "hsl(220, 14%, 71%)"
+      ],
+      "unique": true,
+      "color_format": "hsl",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#5b6270",
+      "count": 1,
+      "variations": [
+        "hsl(220, 10%, 40%)"
+      ],
+      "unique": true,
+      "color_format": "hsl",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#61afef",
+      "count": 1,
+      "variations": [
+        "hsl(207, 82%, 66%)"
+      ],
+      "unique": true,
+      "color_format": "hsl",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#4078f1",
+      "count": 1,
+      "variations": [
+        "hsl(221, 87%, 60%)"
+      ],
+      "unique": true,
+      "color_format": "hsl",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#0083bb",
+      "count": 1,
+      "variations": [
+        "hsl(198, 99%, 37%)"
+      ],
+      "unique": true,
+      "color_format": "hsl",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#f0f8ff",
+      "count": 1,
+      "variations": [
+        "aliceblue"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#6495ed",
+      "count": 1,
+      "variations": [
+        "cornflowerblue"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#00008b",
+      "count": 1,
+      "variations": [
+        "darkblue"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#483d8b",
+      "count": 1,
+      "variations": [
+        "darkslateblue"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#00bfff",
+      "count": 1,
+      "variations": [
+        "deepskyblue"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#1e90ff",
+      "count": 1,
+      "variations": [
+        "dodgerblue"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#f8f8ff",
+      "count": 1,
+      "variations": [
+        "ghostwhite"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#e6e6fa",
+      "count": 1,
+      "variations": [
+        "lavender"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#87cefa",
+      "count": 1,
+      "variations": [
+        "lightskyblue"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#b0c4de",
+      "count": 1,
+      "variations": [
+        "lightsteelblue"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#0000cd",
+      "count": 1,
+      "variations": [
+        "mediumblue"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#7b68ee",
+      "count": 1,
+      "variations": [
+        "mediumslateblue"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#191970",
+      "count": 1,
+      "variations": [
+        "midnightblue"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#4169e1",
+      "count": 1,
+      "variations": [
+        "royalblue"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#87ceeb",
+      "count": 1,
+      "variations": [
+        "skyblue"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#6a5acd",
+      "count": 1,
+      "variations": [
+        "slateblue"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#4682b4",
+      "count": 1,
+      "variations": [
+        "steelblue"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "blue",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#2c3e50",
+      "count": 1,
+      "variations": [
+        "#2c3e50"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#eef2ff",
+      "count": 3,
+      "variations": [
+        "#eef2ff"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/main-UxoaCJ3s.js",
+        "src/pages/assistant/[id]/chat/AssistantMessage/AssistantMessage.module.css",
+        "src/pages/issues/issues/IssueDetails.module.css"
+      ]
+    },
+    {
+      "name": "#4a80e0",
+      "count": 1,
+      "variations": [
+        "#4a80e0"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#161621",
+      "count": 1,
+      "variations": [
+        "#161621"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#5462ea",
+      "count": 4,
+      "variations": [
+        "#5462ea"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/main-UxoaCJ3s.js",
+        "src/shared/components/icons/IconDiscord/IconDiscord.tsx",
+        "src/pages/assistant/data_source/IconDiscord/IconDiscord.tsx",
+        "src/pages/assistant/[id]/EmptyStateOverview.tsx"
+      ]
+    },
+    {
+      "name": "#00aeef",
+      "count": 2,
+      "variations": [
+        "#00aeef"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "dist/main-UxoaCJ3s.js",
+        "src/pages/assistant/data_source/IconDiscourse/IconDiscourse.tsx"
+      ]
+    },
+    {
+      "name": "#f9fafb",
+      "count": 9,
+      "variations": [
+        "#f9fafb"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "src/theme.module.css",
+        "src/theme.ts",
+        "src/shared/AppShell/BlockedPage.tsx",
+        "src/docs/color.stories.tsx",
+        "src/pages/assistant/[id]/AssistantOverviewPage.tsx",
+        "src/pages/assistant/[id]/insights/AssistantInsightsPage.tsx",
+        "src/pages/assistant/[id]/chat/ModelChatPage.tsx",
+        "src/pages/autodocs/assistant/[id]/AutoDocPRPage.tsx",
+        "src/pages/issues/assistant/[id]/IssuesPage.tsx"
+      ]
+    },
+    {
+      "name": "#007bff",
+      "count": 2,
+      "variations": [
+        "#007bff"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "src/shared/components/ThumbUpButton/ThumbUpButton.tsx",
+        "src/shared/components/ThumbDownButton/ThumbDownButton.tsx"
+      ]
+    },
+    {
+      "name": "#1ea7fd",
+      "count": 1,
+      "variations": [
+        "#1ea7fd"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "src/docs/page.css"
+      ]
+    },
+    {
+      "name": "#080b0e",
+      "count": 1,
+      "variations": [
+        "#080b0e"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "src/pages/assistant/data_source/IconGuru/IconGuru.tsx"
+      ]
+    },
+    {
+      "name": "#1f8ded",
+      "count": 1,
+      "variations": [
+        "#1f8ded"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "src/pages/assistant/data_source/IconIntercom/IconIntercom.tsx"
+      ]
+    },
+    {
+      "name": "#0052cc",
+      "count": 1,
+      "variations": [
+        "#0052cc"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "src/pages/assistant/data_source/IconConfluence/IconConfluence.tsx"
+      ]
+    },
+    {
+      "name": "#0065a9",
+      "count": 1,
+      "variations": [
+        "#0065a9"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "src/pages/assistant/data_source/IconVSCode/IconVSCode.tsx"
+      ]
+    },
+    {
+      "name": "#007acc",
+      "count": 1,
+      "variations": [
+        "#007acc"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "src/pages/assistant/data_source/IconVSCode/IconVSCode.tsx"
+      ]
+    },
+    {
+      "name": "#1f9cf0",
+      "count": 1,
+      "variations": [
+        "#1f9cf0"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "src/pages/assistant/data_source/IconVSCode/IconVSCode.tsx"
+      ]
+    },
+    {
+      "name": "#2684ff",
+      "count": 1,
+      "variations": [
+        "#2684ff"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "src/pages/assistant/data_source/IconJira/IconJira.tsx"
+      ]
+    },
+    {
+      "name": "#1d60ee",
+      "count": 1,
+      "variations": [
+        "#1d60ee"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "src/pages/assistant/data_source/IconJira/IconJira.tsx"
+      ]
+    },
+    {
+      "name": "#1555e3",
+      "count": 1,
+      "variations": [
+        "#1555e3"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "src/pages/assistant/data_source/IconJira/IconJira.tsx"
+      ]
+    },
+    {
+      "name": "#e8f4ff",
+      "count": 1,
+      "variations": [
+        "#e8f4ff"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "src/pages/assistant/[id]/insights/AssistantInsightsPage.tsx"
+      ]
+    },
+    {
+      "name": "#fafbff",
+      "count": 1,
+      "variations": [
+        "#fafbff"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "src/pages/assistant/[id]/ChatHistory/ChatHistorySection.module.css"
+      ]
+    },
+    {
+      "name": "#fbfbff",
+      "count": 1,
+      "variations": [
+        "#fbfbff"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "src/pages/assistant/[id]/ChatHistory/ChatHistorySection.module.css"
+      ]
+    },
+    {
+      "name": "#093fff",
+      "count": 4,
+      "variations": [
+        "#093fff"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "src/pages/newAssistant/NewAssistantPageStep.module.css",
+        "src/pages/newAssistant/CreateAssistantHero.tsx",
+        "src/pages/newAssistant/CreateAssistantHero.module.css",
+        "src/pages/members/ManageMembersHero.tsx"
+      ]
+    },
+    {
+      "name": "#849fff",
+      "count": 2,
+      "variations": [
+        "rgba(132, 159, 255, 1)"
+      ],
+      "unique": false,
+      "color_format": "rgba",
+      "category": "blue",
+      "locations": [
+        "src/pages/newAssistant/NewAssistantBanner.tsx",
+        "src/pages/newAssistant/NewAssistantBanner.module.css"
+      ]
+    },
+    {
+      "name": "#f3f5ff",
+      "count": 1,
+      "variations": [
+        "#f3f5ff"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "blue",
+      "locations": [
+        "src/pages/members/MembersTableFilter.module.css"
+      ]
+    }
+  ],
+  "white": [
+    {
+      "name": "#ffffff",
+      "count": 72,
+      "variations": [
+        "#fff",
+        "rgba(255,255,255,.15)",
+        "white",
+        "#ffffff",
+        "rgb(255, 255, 255)",
+        "rgba(255, 255, 255, 0.3)",
+        "rgba(255, 255, 255, 0)",
+        "rgba(255, 255, 255, 0.5)"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "white",
+      "locations": [
+        "dist/main.css",
+        "dist/MDXContent-R3amXh7n.js",
+        "dist/MDXContent.css",
+        "dist/main-UxoaCJ3s.js",
+        "src/theme.module.css",
+        "src/shared/status.tsx",
+        "src/shared/AppShell/Navatar.module.css",
+        "src/shared/AppShell/Navatar.tsx",
+        "src/shared/AppShell/RunLLMNav.module.css",
+        "src/shared/components/ListIcons.module.css",
+        "src/shared/components/SourceBadge.module.css",
+        "src/shared/components/RoundedButton.module.css",
+        "src/shared/components/ListInputs.module.css",
+        "src/shared/components/AdvancedButton.tsx",
+        "src/shared/components/Header.module.css",
+        "src/shared/components/RunLLMLogo.tsx",
+        "src/shared/components/DataSourceCard.module.css",
+        "src/shared/components/DataSourceCard.tsx",
+        "src/shared/components/IngestionRunProgressBar.tsx",
+        "src/shared/components/IngestionRunProgressBar.stories.tsx",
+        "src/shared/components/IngestionRunProgressBar.module.css",
+        "src/shared/components/ThumbUpButton/ThumbUpButton.tsx",
+        "src/shared/components/ConfigTableView/ConfigTableView.module.css",
+        "src/shared/components/ThumbDownButton/ThumbDownButton.tsx",
+        "src/shared/components/RunLLMButton/RunLLMButton.module.css",
+        "src/shared/components/RunLLMLogo/RunLLMLogo.stories.tsx",
+        "src/shared/components/RunLLMLogo/RunLLMLogo.tsx",
+        "src/shared/components/ProgressBar/ProgressBar.module.css",
+        "src/shared/components/icons/IconSlack/IconSlack.tsx",
+        "src/shared/components/icons/IconHelpCircle/IconHelpCircle.tsx",
+        "src/shared/components/icons/IconGreenBot/IconGreenBot.tsx",
+        "src/shared/components/icons/IconDash/IconDash.tsx",
+        "src/shared/components/RunLLMChatInput/test.tsx",
+        "src/shared/components/RunLLMChatInput/RunLLMChatInput.module.css",
+        "src/shared/components/RunLLMChatInput/RunLLMChatInput.tsx",
+        "src/shared/components/RunLLMChatInput/RunLLMChatInput.stories.tsx",
+        "src/shared/components/RunLLMCard/RunLLMCard.module.css",
+        "src/shared/layouts/WelcomeLayout/WelcomeLayout.module.css",
+        "src/pages/404Page.module.css",
+        "src/pages/assistant/data_source/IconGuru/IconGuru.tsx",
+        "src/pages/assistant/data_source/IconSlack/IconSlack.tsx",
+        "src/pages/assistant/data_source/IconVSCode/IconVSCode.tsx",
+        "src/pages/assistant/data_source/IconGithub/IconGithub.tsx",
+        "src/pages/assistant/data_source/IconNotion/IconNotion.tsx",
+        "src/pages/assistant/deployment/register/[type]/DeploymentRegisterPage.module.css",
+        "src/pages/assistant/[id]/EmptyStateOverview.tsx",
+        "src/pages/assistant/[id]/EmailSettingsPopover.tsx",
+        "src/pages/assistant/[id]/insights/AssistantInsightsPage.module.css",
+        "src/pages/assistant/[id]/insights/EmptyInsightsGraphic.tsx",
+        "src/pages/assistant/[id]/chat/ChatListStyles.css",
+        "src/pages/assistant/[id]/chat/IconArrowRight.tsx",
+        "src/pages/assistant/[id]/chat/CodeHighlight.css",
+        "src/pages/assistant/[id]/chat/ModelChatPageStyle.css",
+        "src/pages/assistant/[id]/chat/MissingDataIcon.tsx",
+        "src/pages/assistant/[id]/chat/AssistantMessage/AssistantMessage.module.css",
+        "src/pages/assistant/[id]/ChatHistory/ChatHistorySection.module.css",
+        "src/pages/assistant/[id]/Usage/UsageSection.tsx",
+        "src/pages/assistant/[id]/Usage/UsageSection.module.css",
+        "src/pages/assistant/[id]/Usage/Icons/IconDataSources.tsx",
+        "src/pages/assistant/[id]/Usage/Icons/IconDollarSign.tsx",
+        "src/pages/assistant/[id]/shared/InfoCard.module.css",
+        "src/pages/autodocs/assistant/[id]/AutoDocPRPage.module.css",
+        "src/pages/chat/components/ChatMessage/MDX/components/CodeBlock.module.css",
+        "src/pages/chat/components/ChatTab/IconDashBlack.tsx",
+        "src/pages/chat/components/ChatTab/ChatInput.tsx",
+        "src/pages/welcome/NuxPage.module.css",
+        "src/pages/newAssistant/NewAssistantBanner.tsx",
+        "src/pages/assistantlist/AssistantCard/AssistantCard.module.css",
+        "src/pages/assistantlist/AssistantCard/AssistantFooter/Datasourceicon/Datasourceicon.tsx",
+        "src/pages/members/ManageMembersHero.module.css",
+        "src/pages/issues/issues/IssueList.module.css",
+        "src/pages/issues/issues/IssueResolveButtonGroup.module.css"
+      ]
+    },
+    {
+      "name": "#eeeeee",
+      "count": 10,
+      "variations": [
+        "#eee",
+        "#eeeeee",
+        "rgba(238, 238, 238, 0.4)"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "white",
+      "locations": [
+        "dist/main.css",
+        "dist/MDXContent-R3amXh7n.js",
+        "dist/main-UxoaCJ3s.js",
+        "src/shared/components/DataSourceCard.module.css",
+        "src/shared/components/RunLLMCard/RunLLMCard.module.css",
+        "src/pages/assistant/[id]/chat/FileInput.module.css",
+        "src/pages/assistant/[id]/ChatHistory/ChatHistorySection.module.css",
+        "src/pages/assistant/[id]/Usage/components/DataSourceList.module.css",
+        "src/pages/assistant/[id]/shared/SettingsModal.tsx",
+        "src/pages/members/MembersTableFilter.module.css"
+      ]
+    },
+    {
+      "name": "#fbfbfb",
+      "count": 1,
+      "variations": [
+        "#fbfbfb"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "white",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#fdfdfd",
+      "count": 1,
+      "variations": [
+        "#fdfdfd"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "white",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#f2f2f2",
+      "count": 1,
+      "variations": [
+        "#f2f2f2"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "white",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#f9f9f9",
+      "count": 1,
+      "variations": [
+        "hsl(230, 1%, 98%)"
+      ],
+      "unique": true,
+      "color_format": "hsl",
+      "category": "white",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#f5f5f5",
+      "count": 1,
+      "variations": [
+        "whitesmoke"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "white",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#f0f0f0",
+      "count": 2,
+      "variations": [
+        "#f0f0f0"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "white",
+      "locations": [
+        "src/shared/components/ChatUI/ChatUI.stories.tsx",
+        "src/shared/components/RunLLMChatInput/RunLLMChatInput.stories.tsx"
+      ]
+    },
+    {
+      "name": "#ededed",
+      "count": 1,
+      "variations": [
+        "#ededed"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "white",
+      "locations": [
+        "src/pages/members/ManageMembersHero.module.css"
+      ]
+    }
+  ],
+  "black": [
+    {
+      "name": "#000000",
+      "count": 89,
+      "variations": [
+        "#000",
+        "rgba(0, 0, 0, .05)",
+        "rgba(0, 0, 0, .1)",
+        "rgba(0, 0, 0, .04)",
+        "rgba(0, 0, 0, .6)",
+        "black",
+        "#000000",
+        "rgb(0, 0, 0)",
+        "rgba(0, 0, 0, 0.3)",
+        "rgba(0, 0, 0, 1)",
+        "rgba(0, 0, 0, 0.05)",
+        "rgba(0, 0, 0, 0.1)",
+        "rgba(0, 0, 0, 0.04)",
+        "rgba(0, 0, 0, 0.40)",
+        "rgba(0, 0, 0, .07)",
+        "rgba(0, 0, 0, 0.4)",
+        "rgba(0, 0, 0, 0.07)",
+        "rgba(0, 0, 0, 0.2)",
+        "rgba(0,0,0, 0.07)",
+        "rgba(0,0,0,0.07)",
+        "rgba(0, 0, 0, 0.03)",
+        "rgba(0, 0, 0, 0.10)",
+        "rgba(0, 0, 0, 0.5)"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "black",
+      "locations": [
+        "dist/main.css",
+        "dist/MDXContent-R3amXh7n.js",
+        "dist/main-UxoaCJ3s.js",
+        "src/theme.module.css",
+        "src/shared/AppShell/RunLLMNav.tsx",
+        "src/shared/AppShell/NavbarElement.module.css",
+        "src/shared/AppShell/RunLLMLockup.tsx",
+        "src/shared/AppShell/Navatar.module.css",
+        "src/shared/AppShell/Logo.tsx",
+        "src/shared/AppShell/Navatar.tsx",
+        "src/shared/AppShell/UsageMeter.tsx",
+        "src/shared/AppShell/RunLLMNav.module.css",
+        "src/shared/AppShell/UsageMeter.module.css",
+        "src/shared/components/RoundedButton.module.css",
+        "src/shared/components/Dropdown.module.css",
+        "src/shared/components/RunLLMLogo.tsx",
+        "src/shared/components/IngestionRunProgressBar.tsx",
+        "src/shared/components/IngestionRunProgressBar.stories.tsx",
+        "src/shared/components/IngestionRunProgressBar.module.css",
+        "src/shared/components/ThumbUpButton/ThumbUpButton.tsx",
+        "src/shared/components/ConfigTableView/ConfigTableView.module.css",
+        "src/shared/components/ThumbDownButton/ThumbDownButton.tsx",
+        "src/shared/components/CodeBlock/CodeBlock.module.css",
+        "src/shared/components/DeleteModal/DeleteModal.tsx",
+        "src/shared/components/RunLLMButton/RunLLMButton.module.css",
+        "src/shared/components/RunLLMLogo/RunLLMLogo.tsx",
+        "src/shared/components/icons/IconDiscord/IconDiscord.tsx",
+        "src/shared/components/icons/IconGlobe/IconGlobe.tsx",
+        "src/shared/components/icons/IconBox/IconBox.stories.tsx",
+        "src/shared/components/icons/IconBox/IconBox.tsx",
+        "src/shared/components/icons/IconDocument/IconDocument.stories.tsx",
+        "src/shared/components/icons/IconDocument/IconDocument.tsx",
+        "src/shared/components/icons/IconChat/IconChat.stories.tsx",
+        "src/shared/components/icons/IconChat/IconChat.tsx",
+        "src/shared/components/icons/IconHelpCircle/IconHelpCircle.tsx",
+        "src/shared/components/icons/IconGreenBot/IconGreenBot.tsx",
+        "src/shared/components/RunLLMCard/RunLLMCard.module.css",
+        "src/shared/layouts/WelcomeLayout/WelcomeLayout.module.css",
+        "src/docs/color.stories.tsx",
+        "src/docs/typography.stories.tsx",
+        "src/docs/header.css",
+        "src/pages/404Page.module.css",
+        "src/pages/404PageIcon.tsx",
+        "src/pages/assistant/data_source/DataSourceSelector.tsx",
+        "src/pages/assistant/data_source/IconFileUpload/IconFileUpload.tsx",
+        "src/pages/assistant/data_source/IconSandbox/IconSandbox.tsx",
+        "src/pages/assistant/data_source/IconSharepoint/IconSharepoint.tsx",
+        "src/pages/assistant/data_source/IconGithub/IconGithub.tsx",
+        "src/pages/assistant/data_source/IconNotion/IconNotion.tsx",
+        "src/pages/assistant/deployment/register/[type]/DeploymentIcons.tsx",
+        "src/pages/assistant/deployment/register/[type]/DeploymentRegisterPage.module.css",
+        "src/pages/assistant/[id]/EmptyStateOverview.tsx",
+        "src/pages/assistant/[id]/EmailLogo.tsx",
+        "src/pages/assistant/[id]/Pagination.module.css",
+        "src/pages/assistant/[id]/EmailSettingsPopover.module.css",
+        "src/pages/assistant/[id]/AssistantOverviewPage.tsx",
+        "src/pages/assistant/[id]/EmailSettingsPopover.tsx",
+        "src/pages/assistant/[id]/insights/EmptyInsightsGraphic.tsx",
+        "src/pages/assistant/[id]/insights/EmptyInsightsIcon.tsx",
+        "src/pages/assistant/[id]/chat/ChatListStyles.css",
+        "src/pages/assistant/[id]/chat/MDXProvider.tsx",
+        "src/pages/assistant/[id]/chat/MissingDataIcon.tsx",
+        "src/pages/assistant/[id]/chat/AttachmentPreviewArea/AttachmentPreviewArea.module.css",
+        "src/pages/assistant/[id]/chat/IconFeedback/IconThumbsUpInput.tsx",
+        "src/pages/assistant/[id]/chat/IconFeedback/IconThumbsDownInput.tsx",
+        "src/pages/assistant/[id]/chat/AssistantMessage/AssistantMessage.tsx",
+        "src/pages/assistant/[id]/chat/AssistantMessage/AssistantMessage.stories.tsx",
+        "src/pages/assistant/[id]/ChatHistory/ChatHistorySection.module.css",
+        "src/pages/assistant/[id]/Usage/UsageSection.tsx",
+        "src/pages/assistant/[id]/Usage/UsageSection.module.css",
+        "src/pages/assistant/[id]/shared/CardSection.module.css",
+        "src/pages/assistant/[id]/shared/InfoCard.tsx",
+        "src/pages/assistant/[id]/shared/SettingsModal.tsx",
+        "src/pages/autodocs/assistant/[id]/register/AssociationRepoForm.tsx",
+        "src/pages/chat/components/ChatTab/IconDashBlack.tsx",
+        "src/pages/chat/components/Avatar/IconYou.tsx",
+        "src/pages/welcome/UrlInputStep.tsx",
+        "src/pages/welcome/ChatStep.tsx",
+        "src/pages/welcome/ReadingStep.tsx",
+        "src/pages/newAssistant/NewAssistantPageStep.module.css",
+        "src/pages/newAssistant/NewAssistantBanner.module.css",
+        "src/pages/assistantlist/AssistantCard/AssistantCard.module.css",
+        "src/pages/assistantlist/AssistantCard/AssistantFooter/Datasourceicon/Datasourceicon.tsx",
+        "src/pages/members/ManageMembersHero.module.css",
+        "src/pages/issues/issues/IssueList.module.css",
+        "src/pages/issues/issues/IssueResolveButtonGroup.module.css",
+        "src/pages/issues/issues/IconClose.tsx",
+        "src/pages/issues/issues/IssueDetails.module.css",
+        "src/pages/issues/issues/IssueDetails.tsx"
+      ]
+    },
+    {
+      "name": "#141414",
+      "count": 2,
+      "variations": [
+        "#141414"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "black",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#111111",
+      "count": 2,
+      "variations": [
+        "rgb(17, 17, 17)",
+        "#111"
+      ],
+      "unique": false,
+      "color_format": "rgb",
+      "category": "black",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    }
+  ],
+  "gray": [
+    {
+      "name": "#c9c9c9",
+      "count": 2,
+      "variations": [
+        "#c9c9c9"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "gray",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#b8b8b8",
+      "count": 2,
+      "variations": [
+        "#b8b8b8"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "gray",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#828282",
+      "count": 2,
+      "variations": [
+        "#828282"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "gray",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#696969",
+      "count": 2,
+      "variations": [
+        "#696969"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "gray",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#424242",
+      "count": 2,
+      "variations": [
+        "#424242"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "gray",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#3b3b3b",
+      "count": 2,
+      "variations": [
+        "#3b3b3b"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "gray",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#2e2e2e",
+      "count": 2,
+      "variations": [
+        "#2e2e2e"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "gray",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#242424",
+      "count": 2,
+      "variations": [
+        "#242424",
+        "rgba(36, 36, 36, .15)",
+        "rgba(36, 36, 36, .2)",
+        "rgba(36, 36, 36, .05)"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "gray",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#1f1f1f",
+      "count": 2,
+      "variations": [
+        "#1f1f1f"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "gray",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#868e96",
+      "count": 2,
+      "variations": [
+        "#868e96",
+        "rgba(134, 142, 150, .15)",
+        "rgba(134, 142, 150, .2)",
+        "rgba(134, 142, 150, .1)",
+        "rgba(134, 142, 150, .12)",
+        "rgba(134, 142, 150, .05)"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "gray",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#495057",
+      "count": 2,
+      "variations": [
+        "#495057"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "gray",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#e0e0e0",
+      "count": 1,
+      "variations": [
+        "#e0e0e0"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "gray",
+      "locations": [
+        "dist/main.css"
+      ]
+    },
+    {
+      "name": "#999999",
+      "count": 14,
+      "variations": [
+        "#999",
+        "#999999",
+        "rgba(153, 153, 153, 1)"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "gray",
+      "locations": [
+        "dist/main.css",
+        "dist/MDXContent-R3amXh7n.js",
+        "dist/main-UxoaCJ3s.js",
+        "src/shared/AppShell/IconApiKey/IconApiKey.tsx",
+        "src/shared/components/ListInputs.module.css",
+        "src/shared/components/Dropdown.module.css",
+        "src/shared/components/FileList.tsx",
+        "src/shared/components/DataSourceCard.module.css",
+        "src/shared/components/DataSourceCard.tsx",
+        "src/shared/components/MapInput.module.css",
+        "src/pages/assistant/[id]/EmailSettingsPopover.tsx",
+        "src/pages/assistant/[id]/Quality/Quality.module.css",
+        "src/pages/assistant/[id]/Usage/UsageSection.module.css",
+        "src/pages/assistant/[id]/shared/SettingsModal.tsx"
+      ]
+    },
+    {
+      "name": "#555555",
+      "count": 3,
+      "variations": [
+        "#555"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "gray",
+      "locations": [
+        "dist/main.css",
+        "src/pages/assistant/[id]/chat/AssistantMessage/AssistantMessage.tsx",
+        "src/pages/assistant/[id]/Usage/UsageSection.module.css"
+      ]
+    },
+    {
+      "name": "#bbbbbb",
+      "count": 1,
+      "variations": [
+        "#bbb"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "gray",
+      "locations": [
+        "dist/main.css"
+      ]
+    },
+    {
+      "name": "#222222",
+      "count": 4,
+      "variations": [
+        "#222",
+        "#222222"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "gray",
+      "locations": [
+        "dist/main.css",
+        "dist/MDXContent-R3amXh7n.js",
+        "dist/main-UxoaCJ3s.js",
+        "src/shared/components/RunLLMLogo/RunLLMLogo.stories.tsx"
+      ]
+    },
+    {
+      "name": "#777777",
+      "count": 2,
+      "variations": [
+        "#777"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "gray",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#aaaaaa",
+      "count": 1,
+      "variations": [
+        "#aaa"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "gray",
+      "locations": [
+        "dist/main.css"
+      ]
+    },
+    {
+      "name": "#1a1a1a",
+      "count": 2,
+      "variations": [
+        "#1a1a1a"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "gray",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#dddddd",
+      "count": 2,
+      "variations": [
+        "#ddd",
+        "rgb(221, 221, 221)"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "gray",
+      "locations": [
+        "dist/main.css",
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#383838",
+      "count": 1,
+      "variations": [
+        "rgba(56, 56, 56, .1)",
+        "rgba(56, 56, 56, .12)",
+        "rgba(56, 56, 56, .05)"
+      ],
+      "unique": true,
+      "color_format": "rgba",
+      "category": "gray",
+      "locations": [
+        "dist/main.css"
+      ]
+    },
+    {
+      "name": "#808080",
+      "count": 43,
+      "variations": [
+        "gray",
+        "#808080"
+      ],
+      "unique": false,
+      "color_format": "named",
+      "category": "gray",
+      "locations": [
+        "dist/main.css",
+        "dist/MDXContent-R3amXh7n.js",
+        "dist/main-UxoaCJ3s.js",
+        "src/theme.ts",
+        "src/shared/status.tsx",
+        "src/shared/AppShell/Navatar.module.css",
+        "src/shared/AppShell/Navatar.tsx",
+        "src/shared/components/FileList.tsx",
+        "src/shared/components/PipelineProgressStyle.css",
+        "src/shared/components/RunLLMLogo.tsx",
+        "src/shared/components/FineTune.tsx",
+        "src/shared/components/ThumbUpButton/ThumbUpButton.tsx",
+        "src/shared/components/ThumbDownButton/ThumbDownButton.tsx",
+        "src/shared/components/ChatUI/ChatUI.module.css",
+        "src/shared/components/RunLLMButton/RunLLMButton.types.ts",
+        "src/shared/components/RunLLMButton/RunLLMButtonDocs.stories.tsx",
+        "src/shared/components/RunLLMChatInput/test.tsx",
+        "src/shared/components/RunLLMChatInput/RunLLMChatInput.module.css",
+        "src/shared/components/RunLLMChatInput/RunLLMChatInput.tsx",
+        "src/shared/components/RunLLMCard/RunLLMCard.tsx",
+        "src/shared/components/RunLLMCard/RunLLMCard.stories.tsx",
+        "src/shared/components/RunLLMCard/RunLLMCard.module.css",
+        "src/docs/color.stories.tsx",
+        "src/docs/nux.stories.tsx",
+        "src/pages/404Page.tsx",
+        "src/pages/assistant/data_source/FileForm.tsx",
+        "src/pages/assistant/data_source/IconSandbox/IconSandbox.tsx",
+        "src/pages/assistant/deployment/register/DeploymentFeatureSection.tsx",
+        "src/pages/assistant/deployment/register/[type]/DeploymentRegisterPage.tsx",
+        "src/pages/assistant/[id]/insights/AssistantInsightsPage.module.css",
+        "src/pages/assistant/[id]/insights/AssistantInsightsPage.tsx",
+        "src/pages/assistant/[id]/chat/AssistantMessage/ChatFeedback.module.css",
+        "src/pages/assistant/[id]/Quality/Quality.module.css",
+        "src/pages/assistant/[id]/Usage/UsageSection.tsx",
+        "src/pages/assistant/[id]/Usage/UsageSection.module.css",
+        "src/pages/assistant/[id]/Usage/components/SentimentCard.stories.tsx",
+        "src/pages/assistant/[id]/Usage/components/ActivityCard.tsx",
+        "src/pages/chat/components/ChatMessage/MDX/components/CodeBlock.module.css",
+        "src/pages/chat/components/ChatTab/ChatInput.tsx",
+        "src/pages/welcome/ChatStep.tsx",
+        "src/pages/welcome/AsideContent.tsx",
+        "src/pages/members/MembersTableFilter.module.css",
+        "src/pages/issues/issues/IssueDetails.tsx"
+      ]
+    },
+    {
+      "name": "#d3d3d3",
+      "count": 67,
+      "variations": [
+        "lightgray"
+      ],
+      "unique": false,
+      "color_format": "named",
+      "category": "gray",
+      "locations": [
+        "dist/main.css",
+        "src/theme.module.css",
+        "src/theme.ts",
+        "src/shared/AppShell/Navatar.module.css",
+        "src/shared/AppShell/Navatar.tsx",
+        "src/shared/AppShell/RunLLMNav.module.css",
+        "src/shared/AppShell/UsageMeter.module.css",
+        "src/shared/components/ListIcons.module.css",
+        "src/shared/components/RoundedButton.module.css",
+        "src/shared/components/FileListStyle.css",
+        "src/shared/components/Dropdown.module.css",
+        "src/shared/components/Checkbox.module.css",
+        "src/shared/components/EmptyPage.module.css",
+        "src/shared/components/FormIntro.module.css",
+        "src/shared/components/RunLLMLogo.tsx",
+        "src/shared/components/DataSourceCard.module.css",
+        "src/shared/components/RunLLMLoader/RunLLMLoader.module.css",
+        "src/shared/components/ThumbUpButton/ThumbUpButton.tsx",
+        "src/shared/components/ConfigTableView/ConfigTableView.module.css",
+        "src/shared/components/ThumbDownButton/ThumbDownButton.tsx",
+        "src/shared/components/RunLLMButton/RunLLMButton.module.css",
+        "src/shared/components/ProgressBar/ProgressBar.module.css",
+        "src/shared/components/RunLLMCard/RunLLMCard.module.css",
+        "src/docs/color.stories.tsx",
+        "src/docs/Introduction.stories.tsx",
+        "src/pages/404Page.module.css",
+        "src/pages/assistant/deployment/register/[type]/DeploymentRegisterPage.module.css",
+        "src/pages/assistant/[id]/Pagination.tsx",
+        "src/pages/assistant/[id]/Pagination.module.css",
+        "src/pages/assistant/[id]/EmailSettingsPopover.module.css",
+        "src/pages/assistant/[id]/AssistantOverviewPage.tsx",
+        "src/pages/assistant/[id]/EmailSettingsPopover.tsx",
+        "src/pages/assistant/[id]/insights/AssistantInsightsPage.tsx",
+        "src/pages/assistant/[id]/chat/ChatListStyles.css",
+        "src/pages/assistant/[id]/chat/ModelChatPage.tsx",
+        "src/pages/assistant/[id]/chat/AttachmentPreviewArea/AttachmentPreviewArea.module.css",
+        "src/pages/assistant/[id]/chat/AssistantMessage/ChatFeedback.module.css",
+        "src/pages/assistant/[id]/Quality/TestCaseModalContent.tsx",
+        "src/pages/assistant/[id]/Quality/QualityDiagrams.tsx",
+        "src/pages/assistant/[id]/Quality/BaseQualityDescription.tsx",
+        "src/pages/assistant/[id]/Quality/Quality.module.css",
+        "src/pages/assistant/[id]/Quality/TestCaseQualityDiagrams.tsx",
+        "src/pages/assistant/[id]/Quality/QualityRubicCard.tsx",
+        "src/pages/assistant/[id]/ChatHistory/ChatHistorySection.module.css",
+        "src/pages/assistant/[id]/Usage/UsageSection.tsx",
+        "src/pages/assistant/[id]/Usage/UsageSection.module.css",
+        "src/pages/assistant/[id]/Usage/components/NewUsageCard.tsx",
+        "src/pages/assistant/[id]/Usage/components/EventsCard.module.css",
+        "src/pages/assistant/[id]/Usage/components/NewUsageCard.module.css",
+        "src/pages/assistant/[id]/Usage/components/MessagesCard.tsx",
+        "src/pages/assistant/[id]/Usage/components/DataSourceList.tsx",
+        "src/pages/assistant/[id]/Usage/components/EventsCard.tsx",
+        "src/pages/assistant/[id]/Usage/components/ActivityCard.tsx",
+        "src/pages/assistant/[id]/Usage/components/SentimentCard/SentimentCard.tsx",
+        "src/pages/assistant/[id]/shared/CardSection.module.css",
+        "src/pages/assistant/[id]/shared/InfoCard.module.css",
+        "src/pages/assistant/[id]/shared/SettingsModal.tsx",
+        "src/pages/autodocs/assistant/[id]/AutoDocPRPage.module.css",
+        "src/pages/autodocs/assistant/[id]/register/AutoDocPRForm.module.css",
+        "src/pages/chat/components/ChatTab/EmptyChatState.module.css",
+        "src/pages/chat/history/Search.module.css",
+        "src/pages/assistantlist/AssistantCard/AssistantCard.module.css",
+        "src/pages/members/ManageMembersHero.module.css",
+        "src/pages/issues/assistant/[id]/IssuesPage.module.css",
+        "src/pages/issues/issues/IssueResolveButtonGroup.module.css",
+        "src/pages/issues/issues/IssueDetails.module.css",
+        "src/pages/issues/issues/IssueDetails.tsx"
+      ]
+    },
+    {
+      "name": "#393a34",
+      "count": 1,
+      "variations": [
+        "#393a34"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "gray",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#999988",
+      "count": 1,
+      "variations": [
+        "#999988"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "gray",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#272822",
+      "count": 1,
+      "variations": [
+        "#272822"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "gray",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#cccccc",
+      "count": 7,
+      "variations": [
+        "#ccc",
+        "#cccccc"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "gray",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js",
+        "dist/main-UxoaCJ3s.js",
+        "src/shared/components/ThumbUpButton/ThumbUpButton.tsx",
+        "src/shared/components/ThumbDownButton/ThumbDownButton.tsx",
+        "src/pages/assistant/[id]/chat/AttachmentPreview/TextFilePreview.tsx",
+        "src/pages/assistant/[id]/Quality/QualityDiagrams.tsx",
+        "src/pages/welcome/WelcomeCompletePage.module.css"
+      ]
+    },
+    {
+      "name": "#393a33",
+      "count": 1,
+      "variations": [
+        "#393a33"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "gray",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#282a2e",
+      "count": 1,
+      "variations": [
+        "#282a2e",
+        "rgb(40, 42, 46)"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "gray",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#1e1e1e",
+      "count": 1,
+      "variations": [
+        "#1e1e1e"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "gray",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#d4d4d4",
+      "count": 1,
+      "variations": [
+        "#d4d4d4",
+        "rgb(212, 212, 212)"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "gray",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#8e92a1",
+      "count": 4,
+      "variations": [
+        "#8e92a1"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "gray",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js",
+        "src/shared/components/CodeBlock/CodeBlock.module.css",
+        "src/shared/components/CodeBlock/CodeBlock.tsx",
+        "src/pages/assistant/[id]/chat/MDXProvider.tsx"
+      ]
+    },
+    {
+      "name": "#637777",
+      "count": 1,
+      "variations": [
+        "rgb(99, 119, 119)"
+      ],
+      "unique": true,
+      "color_format": "rgb",
+      "category": "gray",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#c5c8c6",
+      "count": 1,
+      "variations": [
+        "rgb(197, 200, 198)"
+      ],
+      "unique": true,
+      "color_format": "rgb",
+      "category": "gray",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#969896",
+      "count": 1,
+      "variations": [
+        "rgb(150, 152, 150)"
+      ],
+      "unique": true,
+      "color_format": "rgb",
+      "category": "gray",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#383942",
+      "count": 1,
+      "variations": [
+        "hsl(230, 8%, 24%)"
+      ],
+      "unique": true,
+      "color_format": "hsl",
+      "category": "gray",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#9fa0a6",
+      "count": 1,
+      "variations": [
+        "hsl(230, 4%, 64%)"
+      ],
+      "unique": true,
+      "color_format": "hsl",
+      "category": "gray",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#dcdcdc",
+      "count": 1,
+      "variations": [
+        "gainsboro"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "gray",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#c0c0c0",
+      "count": 1,
+      "variations": [
+        "silver"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "gray",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#d2d2d2",
+      "count": 1,
+      "variations": [
+        "#d2d2d2"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "gray",
+      "locations": [
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#666666",
+      "count": 2,
+      "variations": [
+        "#666666",
+        "#666"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "gray",
+      "locations": [
+        "dist/main-UxoaCJ3s.js",
+        "src/shared/components/ThumbUpButton/ThumbUpButton.tsx"
+      ]
+    },
+    {
+      "name": "#444444",
+      "count": 1,
+      "variations": [
+        "#444444"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "gray",
+      "locations": [
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#231f20",
+      "count": 2,
+      "variations": [
+        "#231f20"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "gray",
+      "locations": [
+        "dist/main-UxoaCJ3s.js",
+        "src/pages/assistant/data_source/IconDiscourse/IconDiscourse.tsx"
+      ]
+    },
+    {
+      "name": "#333333",
+      "count": 2,
+      "variations": [
+        "#333"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "gray",
+      "locations": [
+        "src/docs/page.css",
+        "src/docs/header.css"
+      ]
+    },
+    {
+      "name": "#a9a9a9",
+      "count": 2,
+      "variations": [
+        "darkgray"
+      ],
+      "unique": false,
+      "color_format": "named",
+      "category": "gray",
+      "locations": [
+        "src/pages/assistant/[id]/chat/AttachmentPreviewArea/AttachmentPreviewArea.tsx",
+        "src/pages/assistant/[id]/Usage/components/SentimentCard/FeedbackButton.tsx"
+      ]
+    },
+    {
+      "name": "#b7b7b7",
+      "count": 1,
+      "variations": [
+        "rgba(183, 183, 183, 0.25)"
+      ],
+      "unique": true,
+      "color_format": "rgba",
+      "category": "gray",
+      "locations": [
+        "src/pages/assistant/[id]/Usage/UsageSection.module.css"
+      ]
+    }
+  ],
+  "red": [
+    {
+      "name": "#fff5f5",
+      "count": 2,
+      "variations": [
+        "#fff5f5"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "red",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#ffe3e3",
+      "count": 2,
+      "variations": [
+        "#ffe3e3"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "red",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#ffc9c9",
+      "count": 2,
+      "variations": [
+        "#ffc9c9"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "red",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#ffa8a8",
+      "count": 2,
+      "variations": [
+        "#ffa8a8"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "red",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#ff8787",
+      "count": 2,
+      "variations": [
+        "#ff8787",
+        "rgba(255, 135, 135, .05)"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "red",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#ff6b6b",
+      "count": 2,
+      "variations": [
+        "#ff6b6b"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "red",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#fa5252",
+      "count": 2,
+      "variations": [
+        "#fa5252",
+        "rgba(250, 82, 82, .15)",
+        "rgba(250, 82, 82, .2)",
+        "rgba(250, 82, 82, .1)",
+        "rgba(250, 82, 82, .12)",
+        "rgba(250, 82, 82, .05)"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "red",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#f03e3e",
+      "count": 2,
+      "variations": [
+        "#f03e3e"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "red",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#e03131",
+      "count": 2,
+      "variations": [
+        "#e03131"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "red",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#c92a2a",
+      "count": 2,
+      "variations": [
+        "#c92a2a"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "red",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#c40d0d",
+      "count": 11,
+      "variations": [
+        "#c40d0d",
+        "rgba(196, 13, 13, 0.07)",
+        "rgba(196, 13, 13, 0.3)"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "red",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js",
+        "src/shared/status.tsx",
+        "src/shared/components/ErrorAlert.module.css",
+        "src/shared/components/DataSourceCard.module.css",
+        "src/shared/components/DataSourceCard.tsx",
+        "src/pages/assistant/[id]/EmptyStateOverview.tsx",
+        "src/pages/assistant/[id]/chat/MissingDataIcon.tsx",
+        "src/pages/assistant/[id]/chat/AttachmentPreviewArea/IconTrash.tsx",
+        "src/pages/assistant/[id]/chat/AttachmentPreviewArea/AttachmentPreviewArea.tsx",
+        "src/pages/assistant/[id]/Quality/Score.tsx"
+      ]
+    },
+    {
+      "name": "#ff0000",
+      "count": 21,
+      "variations": [
+        "red",
+        "rgb(255, 0, 0)"
+      ],
+      "unique": false,
+      "color_format": "named",
+      "category": "red",
+      "locations": [
+        "dist/main.css",
+        "dist/MDXContent-R3amXh7n.js",
+        "dist/main-UxoaCJ3s.js",
+        "src/theme.module.css",
+        "src/theme.ts",
+        "src/shared/metrics.ts",
+        "src/shared/AppShell/RunLLMAppShell.module.css",
+        "src/shared/components/CardErrorBoundary.tsx",
+        "src/shared/components/DeleteModal/DeleteModal.tsx",
+        "src/shared/components/RunLLMButton/RunLLMButton.module.css",
+        "src/shared/components/RunLLMButton/RunLLMButton.stories.tsx",
+        "src/pages/OrgInviteCallback.tsx",
+        "src/pages/assistant/[id]/EmailSettingsPopover.tsx",
+        "src/pages/assistant/[id]/insights/AssistantInsightsPage.tsx",
+        "src/pages/assistant/[id]/Quality/Score.tsx",
+        "src/pages/assistant/[id]/config/AssistantConfigPage.tsx",
+        "src/pages/assistant/[id]/Usage/components/MessagesCard.stories.tsx",
+        "src/pages/assistant/[id]/shared/SettingsModal.tsx",
+        "src/pages/assistant/[id]/Description/DescriptionSection.tsx",
+        "src/pages/welcome/UrlInputStep.tsx",
+        "src/pages/welcome/NuxPage.module.css"
+      ]
+    },
+    {
+      "name": "#ffc0cb",
+      "count": 3,
+      "variations": [
+        "pink"
+      ],
+      "unique": false,
+      "color_format": "named",
+      "category": "red",
+      "locations": [
+        "dist/main.css",
+        "dist/MDXContent-R3amXh7n.js",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#d73a49",
+      "count": 1,
+      "variations": [
+        "#d73a49"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "red",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#fc929e",
+      "count": 1,
+      "variations": [
+        "#fc929e"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "red",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#e2777a",
+      "count": 1,
+      "variations": [
+        "#e2777a"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "red",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#fff5f6",
+      "count": 1,
+      "variations": [
+        "#fff5f6"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "red",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#d16969",
+      "count": 1,
+      "variations": [
+        "#d16969",
+        "rgb(209, 105, 105)"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "red",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#ff5555",
+      "count": 1,
+      "variations": [
+        "rgb(255, 85, 85)"
+      ],
+      "unique": true,
+      "color_format": "rgb",
+      "category": "red",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#f78c6c",
+      "count": 1,
+      "variations": [
+        "rgb(247, 140, 108)"
+      ],
+      "unique": true,
+      "color_format": "rgb",
+      "category": "red",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#ff5874",
+      "count": 1,
+      "variations": [
+        "rgb(255, 88, 116)"
+      ],
+      "unique": true,
+      "color_format": "rgb",
+      "category": "red",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#c96765",
+      "count": 1,
+      "variations": [
+        "rgb(201, 103, 101)"
+      ],
+      "unique": true,
+      "color_format": "rgb",
+      "category": "red",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#bc5454",
+      "count": 1,
+      "variations": [
+        "rgb(188, 84, 84)"
+      ],
+      "unique": true,
+      "color_format": "rgb",
+      "category": "red",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#ff5572",
+      "count": 1,
+      "variations": [
+        "rgb(255, 85, 114)"
+      ],
+      "unique": true,
+      "color_format": "rgb",
+      "category": "red",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#800000",
+      "count": 1,
+      "variations": [
+        "rgb(128, 0, 0)",
+        "maroon"
+      ],
+      "unique": true,
+      "color_format": "rgb",
+      "category": "red",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#a31515",
+      "count": 1,
+      "variations": [
+        "rgb(163, 21, 21)"
+      ],
+      "unique": true,
+      "color_format": "rgb",
+      "category": "red",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#ef5350",
+      "count": 1,
+      "variations": [
+        "rgba(239, 83, 80, 0.56)"
+      ],
+      "unique": true,
+      "color_format": "rgba",
+      "category": "red",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#df6b75",
+      "count": 1,
+      "variations": [
+        "hsl(355, 65%, 65%)"
+      ],
+      "unique": true,
+      "color_format": "hsl",
+      "category": "red",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#e35549",
+      "count": 1,
+      "variations": [
+        "hsl(5, 74%, 59%)"
+      ],
+      "unique": true,
+      "color_format": "hsl",
+      "category": "red",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#a52a2a",
+      "count": 1,
+      "variations": [
+        "brown"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "red",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#dc143c",
+      "count": 1,
+      "variations": [
+        "crimson"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "red",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#8b0000",
+      "count": 1,
+      "variations": [
+        "darkred"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "red",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#b22222",
+      "count": 1,
+      "variations": [
+        "firebrick"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "red",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#cd5c5c",
+      "count": 1,
+      "variations": [
+        "indianred"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "red",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#f08080",
+      "count": 1,
+      "variations": [
+        "lightcoral"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "red",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#ffb6c1",
+      "count": 1,
+      "variations": [
+        "lightpink"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "red",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#ffe4e1",
+      "count": 1,
+      "variations": [
+        "mistyrose"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "red",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#bc8f8f",
+      "count": 1,
+      "variations": [
+        "rosybrown"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "red",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#fa8072",
+      "count": 1,
+      "variations": [
+        "salmon"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "red",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#fffafa",
+      "count": 1,
+      "variations": [
+        "snow"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "red",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#ff6347",
+      "count": 1,
+      "variations": [
+        "tomato"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "red",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#e31b23",
+      "count": 2,
+      "variations": [
+        "#e31b23"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "red",
+      "locations": [
+        "dist/main-UxoaCJ3s.js",
+        "src/pages/assistant/data_source/IconDiscourse/IconDiscourse.tsx"
+      ]
+    },
+    {
+      "name": "#100100100",
+      "count": 1,
+      "variations": [
+        "rgba(256, 256, 256, 0.1)"
+      ],
+      "unique": true,
+      "color_format": "rgba",
+      "category": "red",
+      "locations": [
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#ca4141",
+      "count": 6,
+      "variations": [
+        "#ca4141"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "red",
+      "locations": [
+        "src/theme.ts",
+        "src/shared/metrics.ts",
+        "src/docs/color.stories.tsx",
+        "src/pages/assistant/[id]/EmptyStateOverview.tsx",
+        "src/pages/assistant/[id]/insights/EmptyInsightsGraphic.tsx",
+        "src/pages/assistant/[id]/Usage/components/SentimentCard.stories.tsx"
+      ]
+    },
+    {
+      "name": "#fdefee",
+      "count": 1,
+      "variations": [
+        "#fdefee"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "red",
+      "locations": [
+        "src/shared/components/DataSourceCard.module.css"
+      ]
+    },
+    {
+      "name": "#ff5733",
+      "count": 1,
+      "variations": [
+        "#ff5733"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "red",
+      "locations": [
+        "src/shared/components/icons/IconDocument/IconDocument.stories.tsx"
+      ]
+    },
+    {
+      "name": "#f61c0d",
+      "count": 1,
+      "variations": [
+        "#f61c0d"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "red",
+      "locations": [
+        "src/pages/assistant/data_source/IconYouTube/IconYouTube.tsx"
+      ]
+    },
+    {
+      "name": "#f44336",
+      "count": 1,
+      "variations": [
+        "#f44336"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "red",
+      "locations": [
+        "src/pages/assistant/[id]/Usage/components/SentimentCard.stories.tsx"
+      ]
+    },
+    {
+      "name": "#ff093f",
+      "count": 1,
+      "variations": [
+        "#ff093f"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "red",
+      "locations": [
+        "src/pages/members/ManageMembersHero.tsx"
+      ]
+    }
+  ],
+  "pink": [
+    {
+      "name": "#fff0f6",
+      "count": 2,
+      "variations": [
+        "#fff0f6"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "pink",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#ffdeeb",
+      "count": 2,
+      "variations": [
+        "#ffdeeb"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "pink",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#fcc2d7",
+      "count": 2,
+      "variations": [
+        "#fcc2d7"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "pink",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#faa2c1",
+      "count": 2,
+      "variations": [
+        "#faa2c1"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "pink",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#f783ac",
+      "count": 2,
+      "variations": [
+        "#f783ac",
+        "rgba(247, 131, 172, .05)"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "pink",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#f06595",
+      "count": 2,
+      "variations": [
+        "#f06595"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "pink",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#e64980",
+      "count": 2,
+      "variations": [
+        "#e64980",
+        "rgba(230, 73, 128, .15)",
+        "rgba(230, 73, 128, .2)",
+        "rgba(230, 73, 128, .1)",
+        "rgba(230, 73, 128, .12)",
+        "rgba(230, 73, 128, .05)"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "pink",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#d6336c",
+      "count": 2,
+      "variations": [
+        "#d6336c"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "pink",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#c2255c",
+      "count": 2,
+      "variations": [
+        "#c2255c"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "pink",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#a61e4d",
+      "count": 2,
+      "variations": [
+        "#a61e4d"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "pink",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#e01e5a",
+      "count": 6,
+      "variations": [
+        "#e01e5a"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "pink",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js",
+        "src/shared/components/icons/IconSlack/IconSlack.tsx",
+        "src/pages/assistant/data_source/IconSlack/IconSlack.tsx",
+        "src/pages/assistant/[id]/EmptyStateOverview.tsx",
+        "src/pages/assistant/[id]/insights/EmptyInsightsGraphic.tsx"
+      ]
+    },
+    {
+      "name": "#e3116c",
+      "count": 1,
+      "variations": [
+        "#e3116c"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "pink",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#f92672",
+      "count": 1,
+      "variations": [
+        "#f92672"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "pink",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#f92aad",
+      "count": 1,
+      "variations": [
+        "#f92aad"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "pink",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#100c0f",
+      "count": 1,
+      "variations": [
+        "#100c0f"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "pink",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#ff79c6",
+      "count": 1,
+      "variations": [
+        "rgb(255, 121, 198)"
+      ],
+      "unique": true,
+      "color_format": "rgb",
+      "category": "pink",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#ff628c",
+      "count": 1,
+      "variations": [
+        "rgb(255, 98, 140)"
+      ],
+      "unique": true,
+      "color_format": "rgb",
+      "category": "pink",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#811f3f",
+      "count": 1,
+      "variations": [
+        "rgb(129, 31, 63)"
+      ],
+      "unique": true,
+      "color_format": "rgb",
+      "category": "pink",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#ff1493",
+      "count": 1,
+      "variations": [
+        "deeppink"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "pink",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#ff69b4",
+      "count": 2,
+      "variations": [
+        "hotpink",
+        "#ff69b4"
+      ],
+      "unique": false,
+      "color_format": "named",
+      "category": "pink",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js",
+        "src/shared/components/RunLLMButton/RunLLMButtonDocs.stories.tsx"
+      ]
+    },
+    {
+      "name": "#fff0f5",
+      "count": 1,
+      "variations": [
+        "lavenderblush"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "pink",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#c71585",
+      "count": 1,
+      "variations": [
+        "mediumvioletred"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "pink",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#db7093",
+      "count": 1,
+      "variations": [
+        "palevioletred"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "pink",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    }
+  ],
+  "purple": [
+    {
+      "name": "#f8f0fc",
+      "count": 2,
+      "variations": [
+        "#f8f0fc"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "purple",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#f3d9fa",
+      "count": 2,
+      "variations": [
+        "#f3d9fa"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "purple",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#eebefa",
+      "count": 2,
+      "variations": [
+        "#eebefa"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "purple",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#e599f7",
+      "count": 2,
+      "variations": [
+        "#e599f7"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "purple",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#da77f2",
+      "count": 2,
+      "variations": [
+        "#da77f2",
+        "rgba(218, 119, 242, .05)"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "purple",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#cc5de8",
+      "count": 2,
+      "variations": [
+        "#cc5de8"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "purple",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#be4bdb",
+      "count": 2,
+      "variations": [
+        "#be4bdb",
+        "rgba(190, 75, 219, .15)",
+        "rgba(190, 75, 219, .2)",
+        "rgba(190, 75, 219, .1)",
+        "rgba(190, 75, 219, .12)",
+        "rgba(190, 75, 219, .05)"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "purple",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#ae3ec9",
+      "count": 2,
+      "variations": [
+        "#ae3ec9"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "purple",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#9c36b5",
+      "count": 2,
+      "variations": [
+        "#9c36b5"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "purple",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#862e9c",
+      "count": 2,
+      "variations": [
+        "#862e9c"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "purple",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#e5dbff",
+      "count": 2,
+      "variations": [
+        "#e5dbff"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "purple",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#d0bfff",
+      "count": 2,
+      "variations": [
+        "#d0bfff"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "purple",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#b197fc",
+      "count": 2,
+      "variations": [
+        "#b197fc"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "purple",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#9775fa",
+      "count": 2,
+      "variations": [
+        "#9775fa",
+        "rgba(151, 117, 250, .05)"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "purple",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#7950f2",
+      "count": 2,
+      "variations": [
+        "#7950f2",
+        "rgba(121, 80, 242, .15)",
+        "rgba(121, 80, 242, .2)",
+        "rgba(121, 80, 242, .1)",
+        "rgba(121, 80, 242, .12)",
+        "rgba(121, 80, 242, .05)"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "purple",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#7048e8",
+      "count": 2,
+      "variations": [
+        "#7048e8"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "purple",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#6741d9",
+      "count": 2,
+      "variations": [
+        "#6741d9"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "purple",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#5f3dc4",
+      "count": 2,
+      "variations": [
+        "#5f3dc4"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "purple",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#ee82ee",
+      "count": 3,
+      "variations": [
+        "violet"
+      ],
+      "unique": false,
+      "color_format": "named",
+      "category": "purple",
+      "locations": [
+        "dist/main.css",
+        "dist/MDXContent-R3amXh7n.js",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#4b0082",
+      "count": 3,
+      "variations": [
+        "indigo"
+      ],
+      "unique": false,
+      "color_format": "named",
+      "category": "purple",
+      "locations": [
+        "dist/main.css",
+        "dist/MDXContent-R3amXh7n.js",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#6f42c1",
+      "count": 1,
+      "variations": [
+        "#6f42c1"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "purple",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#c5a5c5",
+      "count": 1,
+      "variations": [
+        "#c5a5c5"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "purple",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#ae81ff",
+      "count": 1,
+      "variations": [
+        "#ae81ff"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "purple",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#2a2139",
+      "count": 1,
+      "variations": [
+        "#2a2139"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "purple",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#34294f",
+      "count": 1,
+      "variations": [
+        "#34294f"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "purple",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#bd93f9",
+      "count": 1,
+      "variations": [
+        "rgb(189, 147, 249)"
+      ],
+      "unique": true,
+      "color_format": "rgb",
+      "category": "purple",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#c792ea",
+      "count": 1,
+      "variations": [
+        "rgb(199, 146, 234)"
+      ],
+      "unique": true,
+      "color_format": "rgb",
+      "category": "purple",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#aa0982",
+      "count": 1,
+      "variations": [
+        "rgb(170, 9, 130)"
+      ],
+      "unique": true,
+      "color_format": "rgb",
+      "category": "purple",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#994cc3",
+      "count": 1,
+      "variations": [
+        "rgb(153, 76, 195)"
+      ],
+      "unique": true,
+      "color_format": "rgb",
+      "category": "purple",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#b362ff",
+      "count": 1,
+      "variations": [
+        "rgb(179, 98, 255)"
+      ],
+      "unique": true,
+      "color_format": "rgb",
+      "category": "purple",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#c578dd",
+      "count": 1,
+      "variations": [
+        "hsl(286, 60%, 67%)"
+      ],
+      "unique": true,
+      "color_format": "hsl",
+      "category": "purple",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#a625a4",
+      "count": 1,
+      "variations": [
+        "hsl(301, 63%, 40%)"
+      ],
+      "unique": true,
+      "color_format": "hsl",
+      "category": "purple",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#8a2be2",
+      "count": 1,
+      "variations": [
+        "blueviolet"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "purple",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#8b008b",
+      "count": 1,
+      "variations": [
+        "darkmagenta"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "purple",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#9932cc",
+      "count": 1,
+      "variations": [
+        "darkorchid"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "purple",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#9400d3",
+      "count": 1,
+      "variations": [
+        "darkviolet"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "purple",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#ff00ff",
+      "count": 1,
+      "variations": [
+        "fuchsia",
+        "magenta"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "purple",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#ba55d3",
+      "count": 1,
+      "variations": [
+        "mediumorchid"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "purple",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#9370db",
+      "count": 1,
+      "variations": [
+        "mediumpurple"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "purple",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#da70d6",
+      "count": 1,
+      "variations": [
+        "orchid"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "purple",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#dda0dd",
+      "count": 1,
+      "variations": [
+        "plum"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "purple",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#800080",
+      "count": 3,
+      "variations": [
+        "purple"
+      ],
+      "unique": false,
+      "color_format": "named",
+      "category": "purple",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js",
+        "src/shared/typing/core.ts",
+        "src/pages/chat/components/ChatTab/ChatInput.tsx"
+      ]
+    },
+    {
+      "name": "#663399",
+      "count": 1,
+      "variations": [
+        "rebeccapurple"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "purple",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#d8bfd8",
+      "count": 1,
+      "variations": [
+        "thistle"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "purple",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    }
+  ],
+  "teal": [
+    {
+      "name": "#e3fafc",
+      "count": 2,
+      "variations": [
+        "#e3fafc"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "teal",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#c5f6fa",
+      "count": 2,
+      "variations": [
+        "#c5f6fa"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "teal",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#99e9f2",
+      "count": 2,
+      "variations": [
+        "#99e9f2"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "teal",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#66d9e8",
+      "count": 2,
+      "variations": [
+        "#66d9e8"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "teal",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#3bc9db",
+      "count": 2,
+      "variations": [
+        "#3bc9db",
+        "rgba(59, 201, 219, .05)"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "teal",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#22b8cf",
+      "count": 2,
+      "variations": [
+        "#22b8cf"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "teal",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#15aabf",
+      "count": 2,
+      "variations": [
+        "#15aabf",
+        "rgba(21, 170, 191, .15)",
+        "rgba(21, 170, 191, .2)",
+        "rgba(21, 170, 191, .1)",
+        "rgba(21, 170, 191, .12)",
+        "rgba(21, 170, 191, .05)"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "teal",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#1098ad",
+      "count": 2,
+      "variations": [
+        "#1098ad"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "teal",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#0c8599",
+      "count": 2,
+      "variations": [
+        "#0c8599"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "teal",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#0b7285",
+      "count": 2,
+      "variations": [
+        "#0b7285"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "teal",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#36c5f0",
+      "count": 6,
+      "variations": [
+        "#36c5f0"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "teal",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js",
+        "src/shared/components/icons/IconSlack/IconSlack.tsx",
+        "src/pages/assistant/data_source/IconSlack/IconSlack.tsx",
+        "src/pages/assistant/[id]/EmptyStateOverview.tsx",
+        "src/pages/assistant/[id]/insights/EmptyInsightsGraphic.tsx"
+      ]
+    },
+    {
+      "name": "#00ffff",
+      "count": 3,
+      "variations": [
+        "cyan",
+        "aqua"
+      ],
+      "unique": false,
+      "color_format": "named",
+      "category": "teal",
+      "locations": [
+        "dist/main.css",
+        "dist/MDXContent-R3amXh7n.js",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#008080",
+      "count": 6,
+      "variations": [
+        "teal"
+      ],
+      "unique": false,
+      "color_format": "named",
+      "category": "teal",
+      "locations": [
+        "dist/main.css",
+        "dist/MDXContent-R3amXh7n.js",
+        "dist/main-UxoaCJ3s.js",
+        "src/shared/components/CodeBlock/CodeBlock.tsx",
+        "src/pages/assistant/[id]/chat/MDXProvider.tsx",
+        "src/pages/assistant/[id]/chat/ModelChatPage.tsx"
+      ]
+    },
+    {
+      "name": "#36acaa",
+      "count": 1,
+      "variations": [
+        "#36acaa"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "teal",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#5fb3b3",
+      "count": 1,
+      "variations": [
+        "#5fb3b3"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "teal",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#66d9ef",
+      "count": 1,
+      "variations": [
+        "#66d9ef"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "teal",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#9efeff",
+      "count": 1,
+      "variations": [
+        "#9efeff"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "teal",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#001716",
+      "count": 1,
+      "variations": [
+        "#001716"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "teal",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#67cdcc",
+      "count": 1,
+      "variations": [
+        "#67cdcc"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "teal",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#0e7490",
+      "count": 1,
+      "variations": [
+        "#0e7490"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "teal",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#7fdbca",
+      "count": 1,
+      "variations": [
+        "rgb(127, 219, 202)"
+      ],
+      "unique": true,
+      "color_format": "rgb",
+      "category": "teal",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#80cbc4",
+      "count": 1,
+      "variations": [
+        "rgb(128, 203, 196)"
+      ],
+      "unique": true,
+      "color_format": "rgb",
+      "category": "teal",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#0c969b",
+      "count": 1,
+      "variations": [
+        "rgb(12, 150, 155)"
+      ],
+      "unique": true,
+      "color_format": "rgb",
+      "category": "teal",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#4ec9b0",
+      "count": 1,
+      "variations": [
+        "rgb(78, 201, 176)"
+      ],
+      "unique": true,
+      "color_format": "rgb",
+      "category": "teal",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#267f99",
+      "count": 1,
+      "variations": [
+        "rgb(38, 127, 153)"
+      ],
+      "unique": true,
+      "color_format": "rgb",
+      "category": "teal",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#56b5c2",
+      "count": 1,
+      "variations": [
+        "hsl(187, 47%, 55%)"
+      ],
+      "unique": true,
+      "color_format": "hsl",
+      "category": "teal",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#f0ffff",
+      "count": 1,
+      "variations": [
+        "azure"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "teal",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#5f9ea0",
+      "count": 1,
+      "variations": [
+        "cadetblue"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "teal",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#008b8b",
+      "count": 1,
+      "variations": [
+        "darkcyan"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "teal",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#00ced1",
+      "count": 1,
+      "variations": [
+        "darkturquoise"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "teal",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#add8e6",
+      "count": 1,
+      "variations": [
+        "lightblue"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "teal",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#e0ffff",
+      "count": 1,
+      "variations": [
+        "lightcyan"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "teal",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#20b2aa",
+      "count": 1,
+      "variations": [
+        "lightseagreen"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "teal",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#48d1cc",
+      "count": 1,
+      "variations": [
+        "mediumturquoise"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "teal",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#afeeee",
+      "count": 1,
+      "variations": [
+        "paleturquoise"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "teal",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#b0e0e6",
+      "count": 1,
+      "variations": [
+        "powderblue"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "teal",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#40e0d0",
+      "count": 1,
+      "variations": [
+        "turquoise"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "teal",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#00c2ff",
+      "count": 12,
+      "variations": [
+        "#00c2ff",
+        "rgba(0, 194, 255, 1)",
+        "rgba(0, 194, 255, 0.08)"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "teal",
+      "locations": [
+        "dist/main-UxoaCJ3s.js",
+        "src/shared/AppShell/EmptyLimitIcon.tsx",
+        "src/shared/components/IconPlus.tsx",
+        "src/shared/components/IngestionRunProgressBar.module.css",
+        "src/shared/components/FineTune.tsx",
+        "src/shared/components/ProgressBar/ProgressBar.module.css",
+        "src/pages/assistant/[id]/EmptyStateLoader.tsx",
+        "src/pages/assistant/[id]/Usage/UsageSection.module.css",
+        "src/pages/assistant/[id]/Usage/Icons/IconFinetune.tsx",
+        "src/pages/autodocs/assistant/[id]/EmptyAutodocsIcon.tsx",
+        "src/pages/chat/components/ChatTab/IconChatBelow.tsx",
+        "src/pages/issues/EmptyIssuesIcon.tsx"
+      ]
+    },
+    {
+      "name": "#03363d",
+      "count": 2,
+      "variations": [
+        "#03363d"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "teal",
+      "locations": [
+        "src/shared/components/icons/IconZendesk/IconZendesk.tsx",
+        "src/pages/assistant/data_source/IconZendesk/IconZendesk.tsx"
+      ]
+    }
+  ],
+  "green": [
+    {
+      "name": "#e6fcf5",
+      "count": 2,
+      "variations": [
+        "#e6fcf5"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "green",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#c3fae8",
+      "count": 2,
+      "variations": [
+        "#c3fae8"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "green",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#96f2d7",
+      "count": 2,
+      "variations": [
+        "#96f2d7"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "green",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#63e6be",
+      "count": 2,
+      "variations": [
+        "#63e6be"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "green",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#38d9a9",
+      "count": 2,
+      "variations": [
+        "#38d9a9",
+        "rgba(56, 217, 169, .05)"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "green",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#20c997",
+      "count": 2,
+      "variations": [
+        "#20c997"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "green",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#12b886",
+      "count": 2,
+      "variations": [
+        "#12b886",
+        "rgba(18, 184, 134, .15)",
+        "rgba(18, 184, 134, .2)",
+        "rgba(18, 184, 134, .1)",
+        "rgba(18, 184, 134, .12)",
+        "rgba(18, 184, 134, .05)"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "green",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#0ca678",
+      "count": 2,
+      "variations": [
+        "#0ca678"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "green",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#099268",
+      "count": 2,
+      "variations": [
+        "#099268"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "green",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#087f5b",
+      "count": 2,
+      "variations": [
+        "#087f5b"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "green",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#ebfbee",
+      "count": 2,
+      "variations": [
+        "#ebfbee"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "green",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#d3f9d8",
+      "count": 2,
+      "variations": [
+        "#d3f9d8"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "green",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#b2f2bb",
+      "count": 2,
+      "variations": [
+        "#b2f2bb"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "green",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#8ce99a",
+      "count": 2,
+      "variations": [
+        "#8ce99a"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "green",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#69db7c",
+      "count": 2,
+      "variations": [
+        "#69db7c",
+        "rgba(105, 219, 124, .05)"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "green",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#51cf66",
+      "count": 2,
+      "variations": [
+        "#51cf66"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "green",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#40c057",
+      "count": 2,
+      "variations": [
+        "#40c057",
+        "rgba(64, 192, 87, .15)",
+        "rgba(64, 192, 87, .2)",
+        "rgba(64, 192, 87, .1)",
+        "rgba(64, 192, 87, .12)",
+        "rgba(64, 192, 87, .05)"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "green",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#37b24d",
+      "count": 2,
+      "variations": [
+        "#37b24d"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "green",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#2f9e44",
+      "count": 2,
+      "variations": [
+        "#2f9e44"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "green",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#2b8a3e",
+      "count": 2,
+      "variations": [
+        "#2b8a3e"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "green",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#f4fce3",
+      "count": 2,
+      "variations": [
+        "#f4fce3"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "green",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#e9fac8",
+      "count": 2,
+      "variations": [
+        "#e9fac8"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "green",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#d8f5a2",
+      "count": 2,
+      "variations": [
+        "#d8f5a2"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "green",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#c0eb75",
+      "count": 2,
+      "variations": [
+        "#c0eb75"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "green",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#a9e34b",
+      "count": 2,
+      "variations": [
+        "#a9e34b",
+        "rgba(169, 227, 75, .05)"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "green",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#94d82d",
+      "count": 2,
+      "variations": [
+        "#94d82d"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "green",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#82c91e",
+      "count": 2,
+      "variations": [
+        "#82c91e",
+        "rgba(130, 201, 30, .15)",
+        "rgba(130, 201, 30, .2)",
+        "rgba(130, 201, 30, .1)",
+        "rgba(130, 201, 30, .12)",
+        "rgba(130, 201, 30, .05)"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "green",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#74b816",
+      "count": 2,
+      "variations": [
+        "#74b816"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "green",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#66a80f",
+      "count": 2,
+      "variations": [
+        "#66a80f"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "green",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#5c940d",
+      "count": 2,
+      "variations": [
+        "#5c940d"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "green",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#2eb67d",
+      "count": 6,
+      "variations": [
+        "#2eb67d"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "green",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js",
+        "src/shared/components/icons/IconSlack/IconSlack.tsx",
+        "src/pages/assistant/data_source/IconSlack/IconSlack.tsx",
+        "src/pages/assistant/[id]/EmptyStateOverview.tsx",
+        "src/pages/assistant/[id]/insights/EmptyInsightsGraphic.tsx"
+      ]
+    },
+    {
+      "name": "#008000",
+      "count": 13,
+      "variations": [
+        "green",
+        "rgb(0, 128, 0)",
+        "#008000"
+      ],
+      "unique": false,
+      "color_format": "named",
+      "category": "green",
+      "locations": [
+        "dist/main.css",
+        "dist/MDXContent-R3amXh7n.js",
+        "dist/main-UxoaCJ3s.js",
+        "src/shared/status.tsx",
+        "src/shared/metrics.ts",
+        "src/shared/components/RunLLMButton/RunLLMButton.module.css",
+        "src/shared/components/RunLLMButton/RunLLMButton.stories.tsx",
+        "src/pages/assistant/data_source/DataSourceSelector.tsx",
+        "src/pages/assistant/[id]/EmailSettingsPopover.tsx",
+        "src/pages/assistant/[id]/config/AssistantConfigPage.tsx",
+        "src/pages/assistant/[id]/Usage/components/MessagesCard.stories.tsx",
+        "src/pages/assistant/[id]/Description/DescriptionSection.tsx",
+        "src/pages/autodocs/assistant/[id]/AutoDocPRPage.module.css"
+      ]
+    },
+    {
+      "name": "#00ff00",
+      "count": 3,
+      "variations": [
+        "lime"
+      ],
+      "unique": false,
+      "color_format": "named",
+      "category": "green",
+      "locations": [
+        "dist/main.css",
+        "dist/MDXContent-R3amXh7n.js",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#8dc891",
+      "count": 1,
+      "variations": [
+        "#8dc891"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "green",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#a6e22e",
+      "count": 1,
+      "variations": [
+        "#a6e22e"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "green",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#72f1b8",
+      "count": 1,
+      "variations": [
+        "#72f1b8"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "green",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#6a9955",
+      "count": 1,
+      "variations": [
+        "#6a9955",
+        "rgb(106, 153, 85)"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "green",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#b5cea8",
+      "count": 1,
+      "variations": [
+        "#b5cea8",
+        "rgb(181, 206, 168)"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "green",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#50fa7b",
+      "count": 1,
+      "variations": [
+        "rgb(80, 250, 123)"
+      ],
+      "unique": true,
+      "color_format": "rgb",
+      "category": "green",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#addb67",
+      "count": 1,
+      "variations": [
+        "rgb(173, 219, 103)"
+      ],
+      "unique": true,
+      "color_format": "rgb",
+      "category": "green",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#c3e88d",
+      "count": 1,
+      "variations": [
+        "rgb(195, 232, 141)"
+      ],
+      "unique": true,
+      "color_format": "rgb",
+      "category": "green",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#a5ff90",
+      "count": 1,
+      "variations": [
+        "rgb(165, 255, 144)"
+      ],
+      "unique": true,
+      "color_format": "rgb",
+      "category": "green",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#098658",
+      "count": 1,
+      "variations": [
+        "rgb(9, 134, 88)"
+      ],
+      "unique": true,
+      "color_format": "rgb",
+      "category": "green",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#97c279",
+      "count": 1,
+      "variations": [
+        "hsl(95, 38%, 62%)"
+      ],
+      "unique": true,
+      "color_format": "hsl",
+      "category": "green",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#50a04f",
+      "count": 1,
+      "variations": [
+        "hsl(119, 34%, 47%)"
+      ],
+      "unique": true,
+      "color_format": "hsl",
+      "category": "green",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#7fffd4",
+      "count": 1,
+      "variations": [
+        "aquamarine"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "green",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#7fff00",
+      "count": 1,
+      "variations": [
+        "chartreuse"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "green",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#006400",
+      "count": 1,
+      "variations": [
+        "darkgreen"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "green",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#556b2f",
+      "count": 1,
+      "variations": [
+        "darkolivegreen"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "green",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#8fbc8f",
+      "count": 1,
+      "variations": [
+        "darkseagreen"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "green",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#228b22",
+      "count": 1,
+      "variations": [
+        "forestgreen"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "green",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#adff2f",
+      "count": 1,
+      "variations": [
+        "greenyellow"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "green",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#f0fff0",
+      "count": 1,
+      "variations": [
+        "honeydew"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "green",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#7cfc00",
+      "count": 1,
+      "variations": [
+        "lawngreen"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "green",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#90ee90",
+      "count": 1,
+      "variations": [
+        "lightgreen"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "green",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#32cd32",
+      "count": 1,
+      "variations": [
+        "limegreen"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "green",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#66cdaa",
+      "count": 1,
+      "variations": [
+        "mediumaquamarine"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "green",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#3cb371",
+      "count": 1,
+      "variations": [
+        "mediumseagreen"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "green",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#00fa9a",
+      "count": 1,
+      "variations": [
+        "mediumspringgreen"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "green",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#f5fffa",
+      "count": 1,
+      "variations": [
+        "mintcream"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "green",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#6b8e23",
+      "count": 1,
+      "variations": [
+        "olivedrab"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "green",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#98fb98",
+      "count": 1,
+      "variations": [
+        "palegreen"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "green",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#2e8b57",
+      "count": 1,
+      "variations": [
+        "seagreen"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "green",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#00ff7f",
+      "count": 1,
+      "variations": [
+        "springgreen"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "green",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#9acd32",
+      "count": 1,
+      "variations": [
+        "yellowgreen"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "green",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#00a94f",
+      "count": 2,
+      "variations": [
+        "#00a94f"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "green",
+      "locations": [
+        "dist/main-UxoaCJ3s.js",
+        "src/pages/assistant/data_source/IconDiscourse/IconDiscourse.tsx"
+      ]
+    },
+    {
+      "name": "#41ca76",
+      "count": 2,
+      "variations": [
+        "#41ca76"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "green",
+      "locations": [
+        "src/theme.ts",
+        "src/docs/color.stories.tsx"
+      ]
+    },
+    {
+      "name": "#44ca41",
+      "count": 7,
+      "variations": [
+        "#44ca41"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "green",
+      "locations": [
+        "src/shared/metrics.ts",
+        "src/shared/components/icons/IconGreenBot/IconGreenBot.tsx",
+        "src/pages/assistant/[id]/EmptyStateOverview.tsx",
+        "src/pages/assistant/[id]/insights/EmptyInsightsGraphic.tsx",
+        "src/pages/assistant/[id]/chat/IconThumbsUp.tsx",
+        "src/pages/assistant/[id]/Usage/components/SentimentCard.stories.tsx",
+        "src/pages/autodocs/assistant/[id]/AutoDocPRPage.module.css"
+      ]
+    },
+    {
+      "name": "#e7fdd8",
+      "count": 1,
+      "variations": [
+        "#e7fdd8"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "green",
+      "locations": [
+        "src/docs/page.css"
+      ]
+    },
+    {
+      "name": "#66bf3c",
+      "count": 1,
+      "variations": [
+        "#66bf3c"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "green",
+      "locations": [
+        "src/docs/page.css"
+      ]
+    },
+    {
+      "name": "#4caf50",
+      "count": 1,
+      "variations": [
+        "#4caf50"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "green",
+      "locations": [
+        "src/pages/assistant/[id]/Usage/components/SentimentCard.stories.tsx"
+      ]
+    }
+  ],
+  "yellow": [
+    {
+      "name": "#fff9db",
+      "count": 2,
+      "variations": [
+        "#fff9db"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "yellow",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#fff3bf",
+      "count": 2,
+      "variations": [
+        "#fff3bf"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "yellow",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#ffec99",
+      "count": 2,
+      "variations": [
+        "#ffec99"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "yellow",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#ffe066",
+      "count": 2,
+      "variations": [
+        "#ffe066"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "yellow",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#ffd43b",
+      "count": 2,
+      "variations": [
+        "#ffd43b",
+        "rgba(255, 212, 59, .05)"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "yellow",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#fcc419",
+      "count": 2,
+      "variations": [
+        "#fcc419"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "yellow",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#ffffc8",
+      "count": 1,
+      "variations": [
+        "#ffffc8"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "yellow",
+      "locations": [
+        "dist/main.css"
+      ]
+    },
+    {
+      "name": "#ffff00",
+      "count": 5,
+      "variations": [
+        "yellow"
+      ],
+      "unique": false,
+      "color_format": "named",
+      "category": "yellow",
+      "locations": [
+        "dist/main.css",
+        "dist/MDXContent-R3amXh7n.js",
+        "dist/main-UxoaCJ3s.js",
+        "src/pages/assistant/[id]/Quality/Score.tsx",
+        "src/pages/assistant/[id]/Data/DataSection.tsx"
+      ]
+    },
+    {
+      "name": "#f8f8f2",
+      "count": 1,
+      "variations": [
+        "#f8f8f2",
+        "rgb(248, 248, 242)"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "yellow",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#e6db74",
+      "count": 1,
+      "variations": [
+        "#e6db74"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "yellow",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#f1fa8c",
+      "count": 1,
+      "variations": [
+        "rgb(241, 250, 140)"
+      ],
+      "unique": true,
+      "color_format": "rgb",
+      "category": "yellow",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#ffee80",
+      "count": 1,
+      "variations": [
+        "rgb(255, 238, 128)"
+      ],
+      "unique": true,
+      "color_format": "rgb",
+      "category": "yellow",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#fad000",
+      "count": 1,
+      "variations": [
+        "rgb(250, 208, 0)"
+      ],
+      "unique": true,
+      "color_format": "rgb",
+      "category": "yellow",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#dcdcaa",
+      "count": 1,
+      "variations": [
+        "rgb(220, 220, 170)"
+      ],
+      "unique": true,
+      "color_format": "rgb",
+      "category": "yellow",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#f5f5dc",
+      "count": 1,
+      "variations": [
+        "beige"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "yellow",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#fff8dc",
+      "count": 1,
+      "variations": [
+        "cornsilk"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "yellow",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#bdb76b",
+      "count": 1,
+      "variations": [
+        "darkkhaki"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "yellow",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#ffd700",
+      "count": 2,
+      "variations": [
+        "gold"
+      ],
+      "unique": false,
+      "color_format": "named",
+      "category": "yellow",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js",
+        "src/shared/components/RunLLMCard/RunLLMCard.stories.tsx"
+      ]
+    },
+    {
+      "name": "#fffff0",
+      "count": 1,
+      "variations": [
+        "ivory"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "yellow",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#f0e68c",
+      "count": 1,
+      "variations": [
+        "khaki"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "yellow",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#fffacd",
+      "count": 1,
+      "variations": [
+        "lemonchiffon"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "yellow",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#fafad2",
+      "count": 1,
+      "variations": [
+        "lightgoldenrodyellow"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "yellow",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#ffffe0",
+      "count": 1,
+      "variations": [
+        "lightyellow"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "yellow",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#808000",
+      "count": 1,
+      "variations": [
+        "olive"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "yellow",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#eee8aa",
+      "count": 1,
+      "variations": [
+        "palegoldenrod"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "yellow",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#fff9ae",
+      "count": 2,
+      "variations": [
+        "#fff9ae"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "yellow",
+      "locations": [
+        "dist/main-UxoaCJ3s.js",
+        "src/pages/assistant/data_source/IconDiscourse/IconDiscourse.tsx"
+      ]
+    },
+    {
+      "name": "#ebff03",
+      "count": 1,
+      "variations": [
+        "#ebff03"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "yellow",
+      "locations": [
+        "src/pages/assistant/[id]/EmptyStateOverview.tsx"
+      ]
+    }
+  ],
+  "orange": [
+    {
+      "name": "#fab005",
+      "count": 2,
+      "variations": [
+        "#fab005",
+        "rgba(250, 176, 5, .15)",
+        "rgba(250, 176, 5, .2)",
+        "rgba(250, 176, 5, .1)",
+        "rgba(250, 176, 5, .12)",
+        "rgba(250, 176, 5, .05)"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "orange",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#f59f00",
+      "count": 2,
+      "variations": [
+        "#f59f00"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "orange",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#f08c00",
+      "count": 2,
+      "variations": [
+        "#f08c00"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "orange",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#e67700",
+      "count": 2,
+      "variations": [
+        "#e67700"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "orange",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#fff4e6",
+      "count": 2,
+      "variations": [
+        "#fff4e6"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "orange",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#ffe8cc",
+      "count": 2,
+      "variations": [
+        "#ffe8cc"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "orange",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#ffd8a8",
+      "count": 2,
+      "variations": [
+        "#ffd8a8"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "orange",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#ffc078",
+      "count": 2,
+      "variations": [
+        "#ffc078"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "orange",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#ffa94d",
+      "count": 2,
+      "variations": [
+        "#ffa94d",
+        "rgba(255, 169, 77, .05)"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "orange",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#ff922b",
+      "count": 2,
+      "variations": [
+        "#ff922b"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "orange",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#fd7e14",
+      "count": 2,
+      "variations": [
+        "#fd7e14",
+        "rgba(253, 126, 20, .15)",
+        "rgba(253, 126, 20, .2)",
+        "rgba(253, 126, 20, .1)",
+        "rgba(253, 126, 20, .12)",
+        "rgba(253, 126, 20, .05)"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "orange",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#f76707",
+      "count": 2,
+      "variations": [
+        "#f76707"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "orange",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#e8590c",
+      "count": 2,
+      "variations": [
+        "#e8590c"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "orange",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#d9480f",
+      "count": 2,
+      "variations": [
+        "#d9480f"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "orange",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js"
+      ]
+    },
+    {
+      "name": "#ecb22e",
+      "count": 7,
+      "variations": [
+        "#ecb22e",
+        "rgba(236, 178, 46, 0.3)"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "orange",
+      "locations": [
+        "dist/main.css",
+        "dist/main-UxoaCJ3s.js",
+        "src/shared/components/icons/IconSlack/IconSlack.tsx",
+        "src/pages/assistant/data_source/IconSlack/IconSlack.tsx",
+        "src/pages/assistant/[id]/EmptyStateOverview.tsx",
+        "src/pages/assistant/[id]/insights/EmptyInsightsGraphic.tsx",
+        "src/pages/assistant/[id]/Quality/Score.tsx"
+      ]
+    },
+    {
+      "name": "#ffa500",
+      "count": 6,
+      "variations": [
+        "orange"
+      ],
+      "unique": false,
+      "color_format": "named",
+      "category": "orange",
+      "locations": [
+        "dist/main.css",
+        "dist/MDXContent-R3amXh7n.js",
+        "dist/main-UxoaCJ3s.js",
+        "src/shared/metrics.ts",
+        "src/shared/components/icons/IconDocument/IconDocument.stories.tsx",
+        "src/pages/members/generic_email_domains.tsx"
+      ]
+    },
+    {
+      "name": "#e09142",
+      "count": 1,
+      "variations": [
+        "#e09142"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "orange",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#ffcc99",
+      "count": 1,
+      "variations": [
+        "#ffcc99"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "orange",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#faf8f5",
+      "count": 1,
+      "variations": [
+        "#faf8f5"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "orange",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#b6ad9a",
+      "count": 1,
+      "variations": [
+        "#b6ad9a"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "orange",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#b29762",
+      "count": 1,
+      "variations": [
+        "#b29762"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "orange",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#2d2006",
+      "count": 1,
+      "variations": [
+        "#2d2006"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "orange",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#896724",
+      "count": 1,
+      "variations": [
+        "#896724"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "orange",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#ff8b50",
+      "count": 1,
+      "variations": [
+        "#ff8b50"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "orange",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#fac863",
+      "count": 1,
+      "variations": [
+        "#fac863"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "orange",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#f4eee4",
+      "count": 1,
+      "variations": [
+        "#f4eee4"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "orange",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#f87c32",
+      "count": 1,
+      "variations": [
+        "#f87c32"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "orange",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#d7ba7d",
+      "count": 1,
+      "variations": [
+        "#d7ba7d",
+        "rgb(215, 186, 125)"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "orange",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#ffb86c",
+      "count": 1,
+      "variations": [
+        "rgb(255, 184, 108)"
+      ],
+      "unique": true,
+      "color_format": "rgb",
+      "category": "orange",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#ffcb8b",
+      "count": 1,
+      "variations": [
+        "rgb(255, 203, 139)"
+      ],
+      "unique": true,
+      "color_format": "rgb",
+      "category": "orange",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#ffcb6b",
+      "count": 1,
+      "variations": [
+        "rgb(255, 203, 107)"
+      ],
+      "unique": true,
+      "color_format": "rgb",
+      "category": "orange",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#ffb454",
+      "count": 1,
+      "variations": [
+        "rgb(255, 180, 84)"
+      ],
+      "unique": true,
+      "color_format": "rgb",
+      "category": "orange",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#ff9d00",
+      "count": 1,
+      "variations": [
+        "rgb(255, 157, 0)"
+      ],
+      "unique": true,
+      "color_format": "rgb",
+      "category": "orange",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#ce9178",
+      "count": 1,
+      "variations": [
+        "rgb(206, 145, 120)"
+      ],
+      "unique": true,
+      "color_format": "rgb",
+      "category": "orange",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#d19965",
+      "count": 1,
+      "variations": [
+        "hsl(29, 54%, 61%)"
+      ],
+      "unique": true,
+      "color_format": "hsl",
+      "category": "orange",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#b66a00",
+      "count": 1,
+      "variations": [
+        "hsl(35, 99%, 36%)"
+      ],
+      "unique": true,
+      "color_format": "hsl",
+      "category": "orange",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#faebd7",
+      "count": 1,
+      "variations": [
+        "antiquewhite"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "orange",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#ffe4c4",
+      "count": 1,
+      "variations": [
+        "bisque"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "orange",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#ffebcd",
+      "count": 1,
+      "variations": [
+        "blanchedalmond"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "orange",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#deb887",
+      "count": 1,
+      "variations": [
+        "burlywood"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "orange",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#d2691e",
+      "count": 1,
+      "variations": [
+        "chocolate"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "orange",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#ff7f50",
+      "count": 1,
+      "variations": [
+        "coral"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "orange",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#b8860b",
+      "count": 1,
+      "variations": [
+        "darkgoldenrod"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "orange",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#ff8c00",
+      "count": 1,
+      "variations": [
+        "darkorange"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "orange",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#e9967a",
+      "count": 1,
+      "variations": [
+        "darksalmon"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "orange",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#fffaf0",
+      "count": 1,
+      "variations": [
+        "floralwhite"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "orange",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#daa520",
+      "count": 1,
+      "variations": [
+        "goldenrod"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "orange",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#ffa07a",
+      "count": 1,
+      "variations": [
+        "lightsalmon"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "orange",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#faf0e6",
+      "count": 1,
+      "variations": [
+        "linen"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "orange",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#ffe4b5",
+      "count": 1,
+      "variations": [
+        "moccasin"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "orange",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#ffdead",
+      "count": 1,
+      "variations": [
+        "navajowhite"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "orange",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#fdf5e6",
+      "count": 1,
+      "variations": [
+        "oldlace"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "orange",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#ff4500",
+      "count": 1,
+      "variations": [
+        "orangered"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "orange",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#ffefd5",
+      "count": 1,
+      "variations": [
+        "papayawhip"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "orange",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#ffdab9",
+      "count": 1,
+      "variations": [
+        "peachpuff"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "orange",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#cd853f",
+      "count": 1,
+      "variations": [
+        "peru"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "orange",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#8b4513",
+      "count": 1,
+      "variations": [
+        "saddlebrown"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "orange",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#f4a460",
+      "count": 1,
+      "variations": [
+        "sandybrown"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "orange",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#fff5ee",
+      "count": 1,
+      "variations": [
+        "seashell"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "orange",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#a0522d",
+      "count": 1,
+      "variations": [
+        "sienna"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "orange",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#d2b48c",
+      "count": 1,
+      "variations": [
+        "tan"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "orange",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#f5deb3",
+      "count": 1,
+      "variations": [
+        "wheat"
+      ],
+      "unique": true,
+      "color_format": "named",
+      "category": "orange",
+      "locations": [
+        "dist/MDXContent-R3amXh7n.js"
+      ]
+    },
+    {
+      "name": "#f15d22",
+      "count": 2,
+      "variations": [
+        "#f15d22"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "orange",
+      "locations": [
+        "dist/main-UxoaCJ3s.js",
+        "src/pages/assistant/data_source/IconDiscourse/IconDiscourse.tsx"
+      ]
+    },
+    {
+      "name": "#fed88f",
+      "count": 3,
+      "variations": [
+        "#fed88f"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "orange",
+      "locations": [
+        "src/shared/metrics.ts",
+        "src/pages/assistant/[id]/EmptyStateOverview.tsx",
+        "src/pages/assistant/[id]/insights/EmptyInsightsGraphic.tsx"
+      ]
+    },
+    {
+      "name": "#f1a726",
+      "count": 1,
+      "variations": [
+        "#f1a726"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "orange",
+      "locations": [
+        "src/shared/components/DataSourceCard.module.css"
+      ]
+    },
+    {
+      "name": "#fdf7eb",
+      "count": 1,
+      "variations": [
+        "#fdf7eb"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "orange",
+      "locations": [
+        "src/shared/components/DataSourceCard.module.css"
+      ]
+    },
+    {
+      "name": "#100f0d",
+      "count": 1,
+      "variations": [
+        "#100f0d"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "orange",
+      "locations": [
+        "src/pages/assistant/data_source/IconGithub/IconGithubBranch.tsx"
+      ]
+    },
+    {
+      "name": "#f8f5ef",
+      "count": 2,
+      "variations": [
+        "#f8f5ef"
+      ],
+      "unique": false,
+      "color_format": "hex",
+      "category": "orange",
+      "locations": [
+        "src/pages/assistant/[id]/Quality/BaseQualityDescription.tsx",
+        "src/pages/assistant/[id]/Quality/Quality.module.css"
+      ]
+    },
+    {
+      "name": "#ff9800",
+      "count": 1,
+      "variations": [
+        "#ff9800"
+      ],
+      "unique": true,
+      "color_format": "hex",
+      "category": "orange",
+      "locations": [
+        "src/pages/assistant/[id]/Usage/components/SentimentCard.stories.tsx"
+      ]
+    }
+  ]
+}
