@@ -1,36 +1,129 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Color Viewer
 
-## Getting Started
+A web-based **Color Viewer** built with **Next.js, React, and Tailwind CSS**, designed to visually display and categorize colors from a JSON file.
 
-First, run the development server:
+## Features
+- **Displays Colors in a Grid**: Shows each color in a visually appealing card layout.
+- **Organizes Colors by Category**: Groups colors based on predefined categories.
+- **Shows Color Details**: Displays variations, format, usage count, and file locations.
+- **Fetches Data from a JSON File**: Reads color information dynamically from a stored JSON file.
 
+## Tech Stack
+- **Next.js** - Server-side rendering and optimized performance.
+- **React** - UI components for dynamic rendering.
+- **Tailwind CSS** - Utility-first styling for rapid development.
+
+## Installation
+
+### 1. Clone the Repository
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/yourusername/color-viewer.git
+cd color-viewer
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 2. Install Dependencies
+```bash
+npm install
+```
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+### 3. Run the Development Server
+```bash
+npm run dev
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Open [http://localhost:3000](http://localhost:3000) to see the project in action.
 
-## Learn More
+## JSON Data Structure
+The app fetches color data from `public/colors.json`. The JSON structure follows this format:
+```json
+{
+  "#ff9800": {
+    "name": "#ff9800",
+    "count": 1,
+    "variations": ["#ff9800"],
+    "unique": true,
+    "color_format": "hex",
+    "category": "orange",
+    "locations": ["src/pages/assistant/[id]/Usage/components/SentimentCard.stories.tsx"]
+  },
+  "#4CAF50": {
+    "name": "#4CAF50",
+    "count": 2,
+    "variations": ["#4CAF50", "#43A047"],
+    "unique": false,
+    "color_format": "hex",
+    "category": "green",
+    "locations": ["src/components/Button.tsx", "src/styles/global.css"]
+  }
+}
+```
 
-To learn more about Next.js, take a look at the following resources:
+## How It Works
+1. **Loads JSON data** from `/public/colors.json`.
+2. **Groups colors** by category.
+3. **Displays each color** in a grid layout.
+4. **Shows details** including variations, count, and file locations.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Code Overview
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Fetching Colors from JSON
+Inside `app/page.js`, the data is fetched dynamically:
+```javascript
+useEffect(() => {
+  fetch("/colors.json")
+    .then((response) => response.json())
+    .then((data) => {
+      const groupedColors = {};
+      Object.values(data).forEach((color) => {
+        if (!groupedColors[color.category]) {
+          groupedColors[color.category] = [];
+        }
+        groupedColors[color.category].push(color);
+      });
+      setColors(groupedColors);
+    })
+    .catch((error) => console.error("Error loading colors:", error));
+}, []);
+```
 
-## Deploy on Vercel
+### Rendering Color Cards
+```javascript
+function ColorCard({ color }) {
+  return (
+    <div className="bg-white shadow-lg rounded-lg p-4 border">
+      <div className="h-16 w-full rounded-md" style={{ backgroundColor: color.name }}></div>
+      <div className="mt-4">
+        <p className="text-lg font-semibold">{color.name}</p>
+        <p className="text-gray-600 text-sm">Count: {color.count}</p>
+        <p className="text-gray-600 text-sm">Format: {color.color_format.toUpperCase()}</p>
+      </div>
+    </div>
+  );
+}
+```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Deployment
+To deploy the app, run:
+```bash
+npm run build
+npm run start
+```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+For production, deploy to **Vercel**:
+```bash
+vercel
+```
+
+## Contributing
+1. Fork the repository.
+2. Create a new branch: `git checkout -b feature-branch`.
+3. Commit your changes: `git commit -m "Added new feature"`.
+4. Push to the branch: `git push origin feature-branch`.
+5. Open a pull request.
+
+## License
+This project is licensed under the MIT License.
+
+## Contact
+For any issues or suggestions, please create an issue in the repository or contact me at [your.email@example.com](mailto:your.email@example.com).
+
