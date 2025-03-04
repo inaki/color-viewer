@@ -1,3 +1,6 @@
+
+![CleanShot 2025-03-04 at 12 28 43@2x](https://github.com/user-attachments/assets/5cac160a-117a-4216-b3fd-3aeb1dfb2d9b)
+
 # Color Viewer
 
 A web-based **Color Viewer** built with **Next.js, React, and Tailwind CSS**, designed to visually display and categorize colors from a JSON file.
